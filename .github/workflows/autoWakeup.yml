@@ -77,7 +77,7 @@ jobs:
 
     - name: Deploy
       run: |
-        git config --global user.name "Zfour"
-        git config --global user.email "499984532@qq.com"
+        git config --global user.name "ladjeek-actions"
+        git config --global user.email "github@ladjeek.uu.me"
         hexo deploy
 
