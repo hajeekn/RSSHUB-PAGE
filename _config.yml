@@ -104,7 +104,7 @@ theme: volantis
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:Zfour/news.zfe.space.git
+  repo: git@github.com:ladjeek-actions/news.git
 
 card_flex:
   enable: true
