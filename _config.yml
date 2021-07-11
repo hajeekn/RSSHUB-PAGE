@@ -104,7 +104,7 @@ theme: volantis
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:ladjeek-actions/news.git
+  repo: git@gitlab.com:Iam-Hajeekn/news.git
 
 card_flex:
   enable: true
