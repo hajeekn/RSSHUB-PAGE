@@ -57,12 +57,6 @@ jobs:
         echo "$HEXO_DEPLOY_PRIVATE_KEY" > ~/.ssh/id_rsa
         chmod 600 ~/.ssh/id_rsa
         ssh-keyscan gitlab.com >> ~/.ssh/known_hosts
-    - name: Cache Hexo
-      uses: actions/cache@v1
-      id: cache
-      with:
-        path: node_modules
-        key: ${{runner.OS}}-${{hashFiles('**/package-lock.json')}}
     - name: Install Npm Requirements
       if: steps.cache.outputs.cache-hit != 'true'
       run: |
