@@ -8,7 +8,7 @@ categories:
 headimg: 'https://axisstudiosgroup.com/site/assets/files/14172/axisstudios_ruinedking_2.-full.png'
 author: Axis Studios
 comments: false
-date: 2021-07-12 01:05:02
+date: 2021-07-12 02:29:37
 thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14172/axisstudios_ruinedking_2.-full.png'
 ---
 
