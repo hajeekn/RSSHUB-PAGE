@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/037/421/634/original/9ad424e258c32802.jpeg'
+headimg: 'https://img.pawoo.net/media_attachments/files/037/422/640/original/280131f4d2094928.png'
 author: Mastodon
 comments: false
-date: Tue, 13 Jul 2021 12:22:28 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/037/421/634/original/9ad424e258c32802.jpeg'
+date: Tue, 13 Jul 2021 13:14:44 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/037/422/640/original/280131f4d2094928.png'
 ---
 
 <div>   
-<hr><br><img src="https://img.pawoo.net/media_attachments/files/037/421/634/original/9ad424e258c32802.jpeg" alt="image " referrerpolicy="no-referrer">  
+<hr><p>アイドルでシコった後の俺</p><br><img src="https://img.pawoo.net/media_attachments/files/037/422/640/original/280131f4d2094928.png" alt="image " referrerpolicy="no-referrer">  
 </div>
             
