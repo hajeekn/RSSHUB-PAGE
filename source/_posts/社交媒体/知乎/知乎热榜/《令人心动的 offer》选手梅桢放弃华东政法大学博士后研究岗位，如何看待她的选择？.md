@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic2.zhimg.com/v2-8f77bb6f80d4fd04227b9d57a1e00722_1440w.jpg'
+headimg: 'https://picsum.photos/400/300?random=1541'
 author: 知乎
 comments: false
-date: Tue, 13 Jul 2021 11:41:25 GMT
-thumbnail: 'https://pic2.zhimg.com/v2-8f77bb6f80d4fd04227b9d57a1e00722_1440w.jpg'
+date: Tue, 13 Jul 2021 12:22:32 GMT
+thumbnail: 'https://picsum.photos/400/300?random=1541'
 ---
 
 <div>   
-心宽体胖的回答<br><br><p>我倒是有另外的几个发现：</p><p>第一、以饭圈为代表的娱乐圈产业受众已经分不清真实世界和娱乐圈世界了，她们为梅桢抱不平更多是出于通过综艺对她的喜爱，至于为什么她会收到质疑甚至因此放弃任教的原因，她们是不理解的，她们一厢情愿地认为反对她的人是为了“害她”。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-8f77bb6f80d4fd04227b9d57a1e00722_1440w.jpg" data-rawwidth="1242" data-rawheight="2208" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-7099fc793692882e36259a1fb6adcc7f_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-8f77bb6f80d4fd04227b9d57a1e00722_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-fb7c812372734e3b34ea3d136fe785db_1440w.jpg" data-rawwidth="1242" data-rawheight="690" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-02d739402784afa9908beffbc90abff9_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-fb7c812372734e3b34ea3d136fe785db_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-8c2242cdb815c5c14aef6966f6e891b4_1440w.jpg" data-rawwidth="1242" data-rawheight="794" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-04c33f4dbb48ba22df0f829e08a08162_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-8c2242cdb815c5c14aef6966f6e891b4_r.jpg" referrerpolicy="no-referrer"></figure><p>第二、社会监督的功能确实很强大，能为学术界逼退翟天临梅桢仝卓这些人，这是好事儿。</p>  
+斩棘的回答<br><br><p>再答一次</p><p>1学术能力不够（已有人总结）</p><p>2饭圈洗脑模式</p><p> 1)突然出现的满屏营销号，并加粗北大这一学历</p><p> 2)水军</p><p> 3)今日发博说网上大量关于她的不实言论已影响其家人</p><p> 4)热搜</p><p>并不认为梅桢火到营销号蹭流量的地步，也并不认为华政学生上知网搜论文的行为是她粉丝口中的人肉，并影响其家人</p><p>另外梅桢女士在offer节目中自称</p><p>1)其回北大读书是因为爱情（相关外籍留学生通道的事情已有人总结）</p><p> 2)对非诉业务感兴趣（澳大利亚国籍无法从事诉讼业务）</p><p>如果真心求职，发表相应学术成果自然没人嘲你</p><p>还没入校，就敢于站在全校学生对立面也是前无古人后无来者</p>  
 </div>
             
