@@ -35,7 +35,7 @@ thumbnail: 'https://img.36krcdn.com/20210713/v2_6452be6171084752ba3081d5de18c9ca
 <p>文｜袁浩延</p> 
 <p>图｜<a target="_blank" rel="noopener noreferrer" href="https://www.36dianping.com/space/4726601013">图虫</a></p> 
 <p class="image-wrapper"><a href="https://letschuhai.com/" target="_blank"></a></p> 
-<p><img src="https://img.36krcdn.com/20210713/v2_6452be6171084752ba3081d5de18c9ca_img_png" data-img-size-val="1200,250" referrerpolicy="no-referrer"></p> 
+<p><a href="https://letschuhai.com/?utm_source=36kr&utm_medium=sayhi&utm_campaign=link2" target="_blank"><img src="https://img.36krcdn.com/20210713/v2_6452be6171084752ba3081d5de18c9ca_img_png" data-img-size-val="1200,250" referrerpolicy="no-referrer"></a></p> 
 <p class="image-wrapper"><img data-img-size-val="631,72" src="https://img.36krcdn.com/20210617/v2_370a410af2a64f75ba1efa19c514033d_img_000" referrerpolicy="no-referrer"></p> 
 <p>寻求报道、与作者交流、商务合作、投稿转载，请扫描下方二维码关注公众号“36氪出海”，点击菜单栏-联系我们-合作需求，扫码填写表单，与我们联系。</p> 
 <p class="image-wrapper"><img data-img-size-val="1080,608" src="https://img.36krcdn.com/20210617/v2_9104ffc538a14f36ad9b23c483006e65_img_000" referrerpolicy="no-referrer"></p>  
