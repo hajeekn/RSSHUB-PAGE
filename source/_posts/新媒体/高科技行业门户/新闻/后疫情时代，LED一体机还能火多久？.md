@@ -1,0 +1,19 @@
+
+---
+title: '后疫情时代，LED一体机还能火多久？'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member46490/202107/wx_article__a2859cca960ef10e2af640dc8eade90d.jpg'
+author: 高科技行业门户
+comments: false
+date: Tue, 13 Jul 2021 00:30:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member46490/202107/wx_article__a2859cca960ef10e2af640dc8eade90d.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">行家说快讯：</p><p style="text-indent: 2em; text-align: left;">2020年，新冠疫情席卷全球，各行各业面临前所未有的挑战，而在挑战之下，也激发了网络会议、在线教育、远程医疗等产业的提速发展。在此背景之下，LED一体机备受关注，不少玩家纷纷布局。</p><p style="text-indent: 2em; text-align: left;">那么时间过去一年有余，LED一体机的发展情况如何？如今各大<span class="hrefStyle"><a href="http://display.ofweek.com/" target="_blank" title="显示">显示</a></span>屏厂商是否还将其作为发力的重点方向？行家说调研了利亚德、雷曼光电、希达电子、AET阿尔泰、艾比森、联建光电、蓝普视讯、科伦特、创显光电等多家重要玩家，以揭开相关谜底。</p><p style="text-indent: 2em; text-align: left;"><strong>放眼过去，LED一体机市场发展有多快？</strong></p><p style="text-indent: 2em; text-align: left;">突然出现的新冠疫情，催生了线上会议、异地协同等应用场景，会议显示设备的需求速度按下了加速键。</p><p style="text-indent: 2em; text-align: left;">而相较于<span class="hrefStyle"><a href="http://display.ofweek.com/IND-8321320-LCD.html" target="_blank" title="LCD">LCD</a></span>一体机，LED一体机具有更快的响应速度、更广的色域、色彩还原率高、无拼接，在100英寸以上的一体机中应用广泛，LED一体机的市场也迅速攀升。</p><p style="text-indent: 2em; text-align: left;"><strong>LED一体机的发展究竟有多迅速？</strong></p><p style="text-indent: 2em; text-align: left;">从产品看，到如今，多家显示屏厂纷纷入局，频频推出LED一体机新品，例如利亚德、洲明科技、联建光电、雷曼光电、希达电子、蓝普视讯、AET阿尔泰等，产品尺寸从108吋起，分布多个尺寸。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46490/202107/wx_article__a2859cca960ef10e2af640dc8eade90d.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">在部分玩家现已发布的产品中，LED一体机尺寸一般集中在108、138、165、220吋，其中165吋产品占比最多。</p><p style="text-indent: 2em; text-align: left;">不过归根结底，市场的反馈是最为直接的答案。</p><p style="text-indent: 2em; text-align: left;">利亚德在其2020年年报中表示，2020年LED会议一体机销售收入破亿；科伦特LED一体机产品销量2020年同比2019年提升近80％；艾比森的会议屏的销售情况相比前年增长了50％。如雷曼光电和联建光电等大部分玩家也表示2020年一体机销量涨幅较高。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46490/202107/wx_article__02cd467a02249b146ded6cb439a07308.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">利亚德“TXP系列”一体机<br></p><p style="text-indent: 2em; text-align: left;"><strong>立足当下，LED一体机现状如何？</strong></p><p style="text-indent: 2em; text-align: left;">经历了疫情间的市场检验，各大显示屏企业也进一步提升了LED一体机产品性能并扩大了其市场应用范围。</p><p style="text-indent: 2em; text-align: left;"><strong>产品方面</strong></p><p style="text-indent: 2em; text-align: left;">希达电子认为，Micro LED、Mini LED等<span class="hrefStyle"><a href="http://display.ofweek.com/CATList-2300-8300-display.html" target="_blank" title="显示技术">显示技术</a></span>不断突破和发展，LED一体机应运而生，而另一方面，LED一体机的快速发展，也给小间距<span class="hrefStyle"><a href="https://display.ofweek.com/KW-ledxianshiping.html" target="_blank" title="LED显示屏">LED显示屏</a></span>市场的发展带来新的可能。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46490/202107/wx_article__d032ada010b67aeefd0db909d6bb7ee0.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">随着技术的提升，用于一体机制造的LED小间距技术及工艺已经相对成熟，主要玩家中以P1．2、P1．5和P1．8为主。</p><p style="text-indent: 2em; text-align: left;">其中，利亚德和奥拓主要应用N in 1的封装，利亚德产品中TXP全系列采用2 in 1灯，并发布了P0．7的TXP135和P0．9的TXP162两款产品。该系列产品中，利亚德还采用了共阴的技术方案，实现了更加节能的效果。</p><p style="text-indent: 2em; text-align: left;">COB玩家则更多，包括雷曼光电、希达电子、创显光电、蓝普视讯等。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46490/202107/wx_article__b68638efffd2d98eac9e15df2b8fbf50.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">雷曼LEDHUB智慧会议显示系统</p><p style="text-indent: 2em; text-align: left;">雷曼LEDHUB智慧会议显示系统的交互屏采用雷曼光电自主专利－－基于COB集成封装技术的Micro LED超高清显示面板无缝拼接而成，其失效率比SMD低一个数量级，免去单元板维护环节，平均无故障运行时间大幅提升，再加上无颗粒感的面发光技术，搭配智能图像处理引擎，能使呈现的画面均匀柔和。</p> 
+  
+</div>
+            
