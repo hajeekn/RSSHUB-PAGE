@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 分类
-headimg: 'https://picsum.photos/400/300?random=9144'
+headimg: 'https://picsum.photos/400/300?random=5706'
 author: 掘金
 comments: false
 date: Tue, 13 Jul 2021 01:51:29 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9144'
+thumbnail: 'https://picsum.photos/400/300?random=5706'
 ---
 
 <div>   
@@ -96,6 +96,13 @@ thumbnail: 'https://picsum.photos/400/300?random=9144'
   <span class="hljs-keyword">return</span> <span class="hljs-built_in">Object</span>.values(list.reduce(<span class="hljs-function">(<span class="hljs-params">pre, cur</span>) =></span> (pre[cur[key]] = pre[cur[key]] || cur, pre), &#123;&#125;))
 &#125;
 <span class="copy-code-btn">复制代码</span></code></pre>
-<p>由于我比较懒，复杂数组按条件去重就写这两样了。还有更多的写法，欢迎交流～</p></div>  
+<p>由于我比较懒，复杂数组按条件去重就写这两样了。还有更多的写法，欢迎交流～</p>
+<h2 data-id="heading-3">一个值得注意的点</h2>
+<p>精简写法虽然代码量少，看起来非常舒服。但是如果不写注释突然在你的某个业务功能函数里来上这么一段，分分钟能气死你的同事和过了很久之后再看代码的自己。所以我有两点建议：</p>
+<ol>
+<li>一个函数只做一件事，去重函数就只用来去重，把去重函数单独抽出来写成独立的函数，而不是混在业务逻辑里。</li>
+<li>多写注释</li>
+</ol>
+<h2 data-id="heading-4">感谢阅读，mua～</h2></div>  
 </div>
             
