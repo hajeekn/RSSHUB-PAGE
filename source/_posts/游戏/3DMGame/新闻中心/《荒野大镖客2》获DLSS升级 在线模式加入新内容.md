@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210713/1626188095_7950
 《荒野大镖局2》的PC玩家终于可以享受到全新DLSS支持了，这是今天更新补丁的一部分。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210713/1626188095_795054.jpg" alt="《荒野大镖客2》获DLSS升级 在线模式加入新内容" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210713/1626188095_795054.jpg" alt="《荒野大镖客2》获DLSS升级 在线模式加入新内容" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 Rockstar Games之前就曾承诺将在7月13日为游戏添加Nvidia
