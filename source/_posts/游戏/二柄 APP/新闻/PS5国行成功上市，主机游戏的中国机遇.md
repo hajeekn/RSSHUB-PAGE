@@ -5,11 +5,11 @@ categories:
  - 游戏
  - 二柄 APP
  - 新闻
-headimg: 'https://picsum.photos/400/300?random=1004'
+headimg: 'https://picsum.photos/400/300?random=6530'
 author: 二柄 APP
 comments: false
-date: 2021-07-14 12:35:59
-thumbnail: 'https://picsum.photos/400/300?random=1004'
+date: 2021-07-14 13:28:11
+thumbnail: 'https://picsum.photos/400/300?random=6530'
 ---
 
 <div>   
