@@ -8,7 +8,7 @@ categories:
 headimg: 'https://media.st.dl.pinyuncloud.com/steam/apps/1190460/capsule_184x69.jpg'
 author: 游戏打折情报
 comments: false
-date: 2021-07-15 11:17:07
+date: 2021-07-15 12:34:00
 thumbnail: 'https://media.st.dl.pinyuncloud.com/steam/apps/1190460/capsule_184x69.jpg'
 ---
 
