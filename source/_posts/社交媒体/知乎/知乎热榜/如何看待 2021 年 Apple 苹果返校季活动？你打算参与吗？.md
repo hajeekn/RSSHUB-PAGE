@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic1.zhimg.com/v2-8fa43cc798b6041fd3d72debdc3d4d57_1440w.jpg'
+headimg: 'https://pic4.zhimg.com/v2-fb04edbb0993c33e35a81800b194d776_1440w.jpg'
 author: 知乎
 comments: false
-date: Fri, 16 Jul 2021 01:39:56 GMT
-thumbnail: 'https://pic1.zhimg.com/v2-8fa43cc798b6041fd3d72debdc3d4d57_1440w.jpg'
+date: Fri, 16 Jul 2021 05:56:52 GMT
+thumbnail: 'https://pic4.zhimg.com/v2-fb04edbb0993c33e35a81800b194d776_1440w.jpg'
 ---
 
 <div>   
-飘来荡去的回答<br><br><p>去年下了一单，结果脑袋抽筋忘了改收货人姓名，被退单了。</p><p>没看邮件，等发现的时候活动已经结束了，只能麻烦“本人”去店里整了一套。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-8fa43cc798b6041fd3d72debdc3d4d57_1440w.jpg" data-rawwidth="1080" data-rawheight="1438" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-31ffc3d94c7b98d11ec2e3ce7bbb5ab4_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-8fa43cc798b6041fd3d72debdc3d4d57_r.jpg" referrerpolicy="no-referrer"></figure><p>今年蹭了个Pro的首发教育优惠，返校季就不和各位童鞋抢了。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-3fe88cc204571af8111888535e64f985_1440w.jpg" data-rawwidth="720" data-rawheight="540" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-6fc5a05713926d72b43eb2d7b8c88e07_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-3fe88cc204571af8111888535e64f985_r.jpg" referrerpolicy="no-referrer"></figure><p>盯着这块肥肉的人越来越多，care的政策都改了，估计返校季的审核只会越来越严格。</p><a data-draft-node="block" data-draft-type="link-card" href="https://www.zhihu.com/question/470828574/answer/1988494980" data-image="https://pic1.zhimg.com/v2-971baae8f0fa76cdd6cb664bb5fd91f5_bh.jpg" data-image-width="600" data-image-height="338" class="internal">苹果「返校季」活动开始了吗？返校季购买苹果产品有哪些值得关注的信息？</a><p></p>  
+苏三公子的回答<br><br><p>打算，不过有的值得买有的不值得。</p><p>比如M1 MacBook Air</p><p>88VIP优惠6198，教育优惠7199赠AirPods，可惜AirPods不值一千，760就能拿下来，所以建议88V用户还是天猫买。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-fb04edbb0993c33e35a81800b194d776_1440w.jpg" data-rawwidth="1280" data-rawheight="2770" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-f5ae66141a65f97af3244f6e35a2f85a_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-fb04edbb0993c33e35a81800b194d776_r.jpg" referrerpolicy="no-referrer"></figure><p>其他用户由于百补最低6499，可以选择官网教育优惠，避免拼多多出现问题。</p><hr><p>总的来说，最值得购买的</p><p>肯定是M1 iPad Pro</p><p>补贴价基本和教育优惠持平，白嫖AirPods。</p><p>然后是iPad Air</p><p>教育优惠叠加京东消费券最低3899，官网4399赠送AirPods，相当于省了250+。</p><p>第三就是Mac mini</p><p>教育优惠叠加京东券最低4399，官网4899赠送AirPods，相当于省了250+。</p><p>第四是刚出的iMac 24</p><p>88VIP叠加百补8949，官网9599赠AirPods，相当于省了100+。对于非88V来说省了200+。</p><p>剩下的来说没有省的特别多的，没有大学生资格的朋友们也无需叹气，百补购买即可。对于这些产品来说，教育优惠更像是能保证产品没有问题的服务，专卖AirPods亏的几十块就当买个安心了。</p><p>最后的最后，有没有收AirPods的朋友呢？</p><p></p>  
 </div>
             

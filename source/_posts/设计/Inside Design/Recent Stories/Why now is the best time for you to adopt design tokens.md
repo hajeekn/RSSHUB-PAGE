@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/kaelig-delomeau-prigent-design-tokens/'
 author: Inside Design
 comments: false
-date: 2021-07-16 05:18:54
+date: 2021-07-16 06:27:13
 thumbnail: 'https://www.invisionapp.com/inside-design/kaelig-delomeau-prigent-design-tokens/'
 ---
 
