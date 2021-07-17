@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/sara-seager-design-better-podcast/'
 author: Inside Design
 comments: false
-date: 2021-07-17 14:18:17
+date: 2021-07-17 15:24:31
 thumbnail: 'https://www.invisionapp.com/inside-design/sara-seager-design-better-podcast/'
 ---
 
