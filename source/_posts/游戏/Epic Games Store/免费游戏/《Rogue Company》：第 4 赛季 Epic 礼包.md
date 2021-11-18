@@ -5,11 +5,11 @@ categories:
  - 游戏
  - Epic Games Store
  - 免费游戏
-headimg: 'https://picsum.photos/400/300?random=5460'
+headimg: 'https://picsum.photos/400/300?random=2760'
 author: Epic Games Store
 comments: false
 date: Thu, 11 Nov 2021 16:00:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5460'
+thumbnail: 'https://picsum.photos/400/300?random=2760'
 ---
 
 <div>   
