@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - PMCAFF
  - 今日推荐 / 精选
-headimg: 'https://picsum.photos/400/300?random=8476'
+headimg: 'https://picsum.photos/400/300?random=4450'
 author: PMCAFF
 comments: false
 date: Invalid Date
-thumbnail: 'https://picsum.photos/400/300?random=8476'
+thumbnail: 'https://picsum.photos/400/300?random=4450'
 ---
 
 <div>   
