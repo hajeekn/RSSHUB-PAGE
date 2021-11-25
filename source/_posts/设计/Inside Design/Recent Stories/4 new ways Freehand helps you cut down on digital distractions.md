@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/freehand-feature-bundle-digital-distractions/'
 author: Inside Design
 comments: false
-date: 2021-11-25 12:35:34
+date: 2021-11-25 13:27:25
 thumbnail: 'https://www.invisionapp.com/inside-design/freehand-feature-bundle-digital-distractions/'
 ---
 
