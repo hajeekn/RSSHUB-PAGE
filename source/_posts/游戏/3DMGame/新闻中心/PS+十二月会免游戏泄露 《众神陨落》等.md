@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211124/1637764869_5205
 游戏网站Dealabs上会员泄露了PS+将于今年12月会免的游戏阵容，包括PS5/PS4版《众神陨落》、PS4版《致命驱壳》、PS4版《乐高DC超级反派》三款。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211124/1637764869_520503.jpg" alt="PS+十二月会免游戏泄露 《众神陨落》等" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211124/1637764869_520503.jpg" alt="PS+十二月会免游戏泄露 《众神陨落》等" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 由于索尼并未正式确认以上消息，一切请以官方为准。
