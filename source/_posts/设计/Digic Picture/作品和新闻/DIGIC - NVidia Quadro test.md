@@ -8,7 +8,7 @@ categories:
 headimg: 'https://digicpictures.com///images/upload/nvidia3.jpg'
 author: Digic Picture
 comments: false
-date: 2021-11-29 07:21:24
+date: 2021-11-29 08:26:42
 thumbnail: 'https://digicpictures.com///images/upload/nvidia3.jpg'
 ---
 
