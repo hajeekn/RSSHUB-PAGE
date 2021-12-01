@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/040/515/040/original/ef02a9a456d5f87e.jpeg'
+headimg: 'https://img.pawoo.net/media_attachments/files/040/515/633/original/07f5c75e49f67368.jpeg'
 author: Mastodon
 comments: false
-date: Wed, 01 Dec 2021 07:21:09 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/040/515/040/original/ef02a9a456d5f87e.jpeg'
+date: Wed, 01 Dec 2021 08:06:26 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/040/515/633/original/07f5c75e49f67368.jpeg'
 ---
 
 <div>   
-<hr><br><img src="https://img.pawoo.net/media_attachments/files/040/515/040/original/ef02a9a456d5f87e.jpeg" alt="image " referrerpolicy="no-referrer">  
+<hr><p>コマ割りがようわからんw</p><br><img src="https://img.pawoo.net/media_attachments/files/040/515/633/original/07f5c75e49f67368.jpeg" alt="image " referrerpolicy="no-referrer">  
 </div>
             
