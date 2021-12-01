@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211201/1638325720_1016
 BioWare新《质量效应》看起来不再采用DICE的寒霜引擎开发，而是回归三部曲采用的虚幻引擎，寒霜引擎的《质量效应》将成为过去。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211201/1638325720_101684.jpg" alt="BioWare新《质量效应》可能采用虚幻引擎开发" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211201/1638325720_101684.jpg" alt="BioWare新《质量效应》可能采用虚幻引擎开发" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 很长时间以来EA强迫所有系列游戏统一采用寒霜引擎开发，但寒霜引擎作为一个为FPS游戏《战地》而设计的引擎，它其实并不适合开发所有游戏类型。BioWare近年来的作品《龙腾世纪：审判》、《质量效应：仙女座》和《圣歌》都采用了寒霜开发，但从之前的开发内幕看，寒霜引擎给BioWare带来了很大的麻烦，导致开发效率低下。
@@ -26,7 +26,7 @@ BioWare新《质量效应》看起来不再采用DICE的寒霜引擎开发，而
 被EA收购的重生娱乐并没有采用寒霜引擎开发，他们的《Apex英雄》为Source引擎，而2019年的《星球大战绝地：陨落的武士团》则是虚幻4引擎。这两款游戏都大获成功，由此让EA的“统一寒霜引擎”政策有所松动。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211201/1638325734_587040.jpg" alt="BioWare新《质量效应》可能采用虚幻引擎开发" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211201/1638325734_587040.jpg" alt="BioWare新《质量效应》可能采用虚幻引擎开发" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 BioWare 
