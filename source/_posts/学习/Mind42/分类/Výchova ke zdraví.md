@@ -1,0 +1,19 @@
+
+---
+title: 'Výchova ke zdraví'
+categories: 
+ - 学习
+ - Mind42
+ - 分类
+headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=3a48f2c5-3f78-4f38-ab8c-35e16195973e&size=gallery'
+author: Mind42
+comments: false
+date: 2021-12-02 09:23:40
+thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=3a48f2c5-3f78-4f38-ab8c-35e16195973e&size=gallery'
+---
+
+<div>   
+<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=3a48f2c5-3f78-4f38-ab8c-35e16195973e&size=gallery" referrerpolicy="no-referrer"><p>
+                                    </p>  
+</div>
+            
