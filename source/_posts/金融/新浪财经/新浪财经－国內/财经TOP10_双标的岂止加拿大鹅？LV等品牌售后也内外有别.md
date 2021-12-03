@@ -8,7 +8,7 @@ categories:
 headimg: 'https://n.sinaimg.cn/finance/cece9e13/20200514/343233024.png'
 author: 新浪财经
 comments: false
-date: Fri, 03 Dec 2021 13:15:08 GMT
+date: Fri, 03 Dec 2021 14:12:55 GMT
 thumbnail: 'https://n.sinaimg.cn/finance/cece9e13/20200514/343233024.png'
 ---
 
@@ -17,7 +17,7 @@ thumbnail: 'https://n.sinaimg.cn/finance/cece9e13/20200514/343233024.png'
 <p>　　<strong>NO.1   <a target="_blank" href="https://finance.sina.com.cn/china/2021-12-03/doc-ikyamrmy6683032.shtml">李克强：中国将围绕市场主体需求制定政策 适时降准</a></strong></p>
 <p>　　国务院总理李克强12月3日下午在中南海紫光阁会见国际货币基金组织格奥尔基耶娃时表示，中国将继续统筹疫情防控和经济社会发展，实施稳定的宏观政策，加强针对性和有效性，继续实施稳健的货币政策，保持流动性合理充裕，围绕市场主体需求制定政策，适时降准，加大对实体经济特别是中小微企业的支持力度，确保经济平稳健康运行。</p>
 <p>　　<strong>NO.2 <a href="https://finance.sina.com.cn/chanjing/cyxw/2021-12-03/doc-ikyakumx1784410.shtml" target="_blank" title="工信部：已编制完成钢铁、有色、石化化工、建材等重点行业碳达峰实施方案">工信部：已编制完成钢铁、有色、石化化工、建材等重点行业碳达峰实施方案</a></strong></p>
-<p cms-style="font-L">　　<font cms-style="font-L">工业和信息化部节能与综合利用司司长黄利斌告诉21世纪经济报道，工业和信息化部已联合有关部门，编制完成了钢铁、有色金属、石化化工、建材等工业领域重点行业的碳达峰实施方案，后续将按照统一的要求和流程陆续发布。</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L">工业和信息化部节能与综合利用司司长黄利斌告诉媒体，工业和信息化部已联合有关部门，编制完成了钢铁、有色金属、石化化工、建材等工业领域重点行业的碳达峰实施方案，后续将按照统一的要求和流程陆续发布。</font></p>
 <p cms-style="font-L">　　《规划》强调，将深入落实《2030 年前碳达峰行动方案》，制定工业领域和钢铁、石化化工、有色金属、建材等重点行业碳达峰实施方案；加快推进产业结构调整，坚决遏制“两高”项目盲目发展，依法依规推动落后产能退出。</p>
 <p>　　<strong>NO.3 <a href="https://finance.sina.com.cn/stock/marketresearch/2021-12-03/doc-ikyamrmy6528851.shtml" target="_blank" title="跨年行情如何布局？机构普遍看好这三大赛道">跨年行情如何布局？机构普遍看好这三大赛道</a></strong></p>
 <p>　　11月以来，A股市场震荡攀升，对于跨年行情如何布局，通过观察机构对上市公司的调研和投资评级发现，工业板块仍然是关注焦点，此外，消费和信息技术类公司机构给予买入评级数普遍较多。</p>
@@ -43,10 +43,9 @@ thumbnail: 'https://n.sinaimg.cn/finance/cece9e13/20200514/343233024.png'
 <p cms-style="font-L">　　<strong>NO.8 <a href="https://finance.sina.com.cn/chanjing/cyxw/2021-12-03/doc-ikyakumx1828824.shtml" target="_blank" title="双标的岂止“加拿大鹅”？LV等品牌售后也内外有别">双标的岂止“加拿大鹅”？LV等品牌售后也内外有别</a></strong></p>
 <p>　　记者调查发现，一些被中国消费者追捧的其他国际品牌，在售后服务上，也存在内外有别的现象。鉴于一些消费者的经历，记者就横向对比了几个品牌在中国的销售政策。比如某知名奢侈品牌（路易威登）在中国大陆是7天内可以退货，30天内可换货，但是在美国、加拿大就可以30天内退货。</p>
 <p>　　记者注意到，该品牌在这些国家退换货政策的最后，还专门标注了这样一句话：全球任何一家门店都接受退换，但不包括巴西、中国、哥伦比亚等地区。</p>
-<p>　　<strong>NO.9  <a target="_blank" href="https://finance.sina.com.cn/wm/2021-12-03/doc-ikyamrmy6521948.shtml">宝马X3刹车两度失灵</a> <a target="_blank" href="https://finance.sina.com.cn/china/gncj/2021-12-03/doc-ikyamrmy6611569.shtml">特斯拉召回21599辆国产Model Y</a></strong></p>
-<p>　　刹车“失灵”一次是巧合，两次是巧合，第三次店内路测时又发生碰撞，4S店却说“车辆行驶数据正常”。宝马X3车主哈女士彻底怒了。</p>
-<p>　　哈女士决定退掉这辆陪伴自己不到半年的“脱缰”宝马，但4S店给出的回购方案又让她感到“有猫腻”：其他宝马4S店的准新车回购价基本为“开票价”，而轮到自己就只能按照二手车折损率回购……对此，北京商报记者展开了一番调查。</p>
-<p>　　日前，特斯拉（上海）有限公司根据《缺陷汽车产品召回管理条例》和《缺陷汽车产品召回管理条例实施办法》的要求，向国家市场监督管理总局备案了召回计划。自即日起，召回生产日期在2021年2月4日至2021年10月30日期间的部分国产Model Y电动汽车，共计21599辆。</p>
+<p>　　<strong>NO.9  <a target="_blank" href="https://finance.sina.com.cn/chanjing/gsnews/2021-12-03/doc-ikyakumx1869376.shtml">广东省人民政府约谈恒大：督促推进企业风险处置工作</a></strong></p>
+<p>　　12月3日，中国恒大集团（上市代码：HK03333）在香港联交所发布了无法履行担保责任的公告，广东省人民政府对此高度关注，当晚立即约谈了中国恒大集团实控人许家印先生。</p>
+<p>　　应恒大地产集团有限公司请求，为有效化解风险，保护各方利益，维护社会稳定，广东省人民政府同意向恒大地产集团有限公司派出工作组，督促推进企业风险处置工作，督促切实加强内控管理，维护正常经营。</p>
 <p>　　<strong>NO.10 <a href="https://finance.sina.com.cn/chanjing/cyxw/2021-12-03/doc-ikyakumx1802953.shtml" target="_blank" title="官宣！李铁下课，李霄鹏上任">官宣！李铁下课，李霄鹏上任</a>    <a target="_blank" href="https://finance.sina.com.cn/jjxw/2021-12-03/doc-ikyakumx1800409.shtml">李铁的商业版图有多大？代言3个品牌、关联公司有8家</a></strong></p>
 <p cms-style="font-L">　　“日前，李铁向中国足球协会提出辞去中国国家男子足球队主教练职务的请求。经中国足球协会研究决定，同意其辞职申请。”</p>
 <p cms-style="font-L">　　<font cms-style="font-L">一片喧嚣之中，中国足协发布公告，李铁“如愿”下课了。</font></p>
