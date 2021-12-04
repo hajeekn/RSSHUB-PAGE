@@ -1,0 +1,20 @@
+
+---
+title: '@cgruayton_ "
+きたね
+"'
+categories: 
+ - 社交媒体
+ - Mastodon
+ - 实例公共时间线（本站）
+headimg: 'https://img.pawoo.net/media_attachments/files/040/581/958/original/5a09ac38e9fd9d79.jpeg'
+author: Mastodon
+comments: false
+date: Sat, 04 Dec 2021 09:22:57 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/040/581/958/original/5a09ac38e9fd9d79.jpeg'
+---
+
+<div>   
+<hr><p>きたね</p><br><img src="https://img.pawoo.net/media_attachments/files/040/581/958/original/5a09ac38e9fd9d79.jpeg" alt="image " referrerpolicy="no-referrer">  
+</div>
+            
