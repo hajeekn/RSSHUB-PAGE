@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/paypal-ben-evans-picture-the-future/'
 author: Inside Design
 comments: false
-date: 2021-12-05 12:34:25
+date: 2021-12-05 13:26:46
 thumbnail: 'https://www.invisionapp.com/inside-design/paypal-ben-evans-picture-the-future/'
 ---
 
