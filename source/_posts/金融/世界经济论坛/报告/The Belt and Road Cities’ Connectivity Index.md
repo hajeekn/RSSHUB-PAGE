@@ -5,17 +5,20 @@ categories:
  - 金融
  - 世界经济论坛
  - 报告
-headimg: 'https://picsum.photos/400/300?random=182'
+headimg: 'https://picsum.photos/400/300?random=6812'
 author: 世界经济论坛
 comments: false
-date: 2021-12-07 08:29:04
-thumbnail: 'https://picsum.photos/400/300?random=182'
+date: 2021-12-07 09:25:08
+thumbnail: 'https://picsum.photos/400/300?random=6812'
 ---
 
 <div>   
 <a href="https://www.weforum.org/reports/undefined">Download PDF</a>
       <div class="small-12 medium-8 columns">
         <div class="st__content-block st__content-block--text">
+    <p>Read our report in Chinese <a href="https://cn.weforum.org/reports/belt-and-road-cities-connectivity-index-report">here</a>.</p>
+</div>
+<div class="st__content-block st__content-block--text">
     <p><i>The Belt and Road Initiative is the most ambitious template for inter-regional trade and development ever. If its future expansion is built on the pillars of sustainability, inclusiveness, and resilience, it could potentially become the greatest contributor to economic and social development ever.</i></p>
 </div>
 <div class="st__content-block st__content-block--text">
