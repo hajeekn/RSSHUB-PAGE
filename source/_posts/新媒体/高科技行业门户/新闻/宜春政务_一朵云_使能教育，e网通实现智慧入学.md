@@ -1,0 +1,19 @@
+
+---
+title: '宜春政务_一朵云_使能教育，e网通实现智慧入学'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-12/09/wenmi/1639030229520027986.jpg'
+author: 高科技行业门户
+comments: false
+date: Thu, 09 Dec 2021 06:09:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-12/09/wenmi/1639030229520027986.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">宜春，古称袁州，是王勃《滕王阁序》中“物华天宝，龙光射牛斗之墟；人杰地灵，徐孺下陈蕃之榻”其人其事的出处之地。大文学家韩愈曾在此任刺史，在任期间大力兴办教育，出现了江西历史上第一个状元卢肇、第二个状元易重等一批有成就的学子。数据显示，唐代袁州共有33名进士登第，高居江西八州之首，几乎占据了唐代江西进士的半壁江山，也位居全国州郡前列，仅次于江南的苏南，由此袁州的文化、教育有了兴盛传承之基。</p><p style="text-indent: 2em; text-align: left;">进入信息化时代，云计算、人工智能、大数据等现代技术高速发展，宜春教育也进入新的发展阶段，在大力发展数字经济的顶层设计之下，<span class="hrefStyle"><a href="https://www.ofweek.com/smartcity/CAT-201806-education.html" target="_blank" title="智慧教育">智慧教育</a></span>成为必由之路。搭上数字化的快车，拥有深厚历史文化底蕴的古袁州，也正成长为一个新型<span class="hrefStyle"><a href="https://www.ofweek.com/smartcity/" target="_blank" title="智慧城市">智慧城市</a></span>。</p><p style="text-indent: 2em; text-align: left;"><strong>大数据赋能教育 1平台e网通实现智慧入学</strong></p><p style="text-indent: 2em; text-align: left;">统筹好“入学第一件事”招生工作是构建智慧教育的重要基础，关系着教育的公平、优质发展。宜春市以华为云平台构筑的教育城域网和赣西云数据中心为支撑，协调建设“招生服务e网通”云平台，对招生工作中产生的海量数据，实现集约高效、共享开放、安全可靠的管理。</p><p style="text-indent: 2em; text-align: left;">依托华为云政务大数据共享交换平台，宜春市“招生服务e网通”汇聚各类入学招生数据，可实现数据的在线对比和招生录取信息的智能化推送；平台构建用户层级清晰、权责明确，可实现操作记录全程溯源，保障系统安全，从而确保招生工作有序、高效推进。</p><p style="text-indent: 2em; text-align: left;"><strong>报名材料后台调， “零证明”办入学</strong></p><p style="text-indent: 2em; text-align: left;">借助大数据技术手段，报名入学登记涉及到的房产、户口、婚姻等多种证明材料可以直接后台调用。宜春市通过市政务大数据共享交换平台申请接口资源14个，实时对接市自然资源局的不动产信息、市住建局的商品房合同备案信息、公租房信息、市公安局的户籍信息以及用水用气等数据，系统按需完成调用即可，不再需要打印纸质版证明。</p><p style="text-indent: 2em; text-align: left;">2021年秋季，通过平台完成幼升小报名 11814人，小升初报名12312人，依托华为云大数据共享交换平台接口资源进行户籍基础信息校验523043次、户籍关系校验159388次、不动产信息校验157417次、购房合同校验25544次、校验用水信息9980次、用气信息8138次、公租房信息校验1844次。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-12/09/wenmi/1639030229520027986.jpg" title="宜春政务“一朵云”使能教育，e网通实现智慧入学" alt="宜春政务“一朵云”使能教育，e网通实现智慧入学" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-12/09/wenmi/1639030229743082969.jpg" title="宜春政务“一朵云”使能教育，e网通实现智慧入学" alt="宜春政务“一朵云”使能教育，e网通实现智慧入学" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;"><strong>招生流程线上走，实现“零跑腿”</strong></p><p style="text-indent: 2em; text-align: left;">依托招生服务e网通平台功能，招生入学报名流程真正实现“零跑腿”。家长通过“招生服务e网通”端口登陆平台，完成报名信息等材料的填写提交，待学区公布之后，直接线上打印入学通知书，到相应学校完成报名，不再需要携带纸质资料前往教育部门登记，真正解决了“跑腿多、证明多”的问题，提升教育群众的满意度与获得感。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-12/09/wenmi/1639030229871097271.jpg" title="宜春政务“一朵云”使能教育，e网通实现智慧入学" alt="宜春政务“一朵云”使能教育，e网通实现智慧入学" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">在外地工作的宜春八小家长陈女士和爱人，原本准备请假回来给小孩报名的家长，有了招生服务e网通平台，直接在线上完成了小孩“小升初”的报名，大大减轻了家长特别是外地家长的负担。</p><p style="text-indent: 2em; text-align: left;"><strong>入学信息线上审，保证“零失误”</strong></p><p style="text-indent: 2em; text-align: left;">利用云计算分析技术，教育部门可在线完成对入学信息的审核。之前，家长填写入学资料之后，需要经过教师、学校、教育部门的层层纸质审批，费时、费力。如今，依靠数据平台，教育部门可直接线上完成资料审核，高效省时，招生入学更加公平、公正、公开。</p><p style="text-indent: 2em; text-align: left;">“之前的小升初工作是比较繁琐的，我们要指导家长提供户口本、房产证等相关证件，有些还要去相关部门开具证明，劳心劳力。今年就方便了，家长只需要填写相关信息后，系统可以直接进行核验匹配，节省了大量的工作。”宜春小学六年级班主任李老师由衷地为招生平台点赞。</p><p style="text-indent: 2em; text-align: left;">“双减”政策之下，云平台、数字技术使能教育是教育教学实现“减负提质”的重要举措，“招生e网通”平台只是一个开始，未来，华为云将持续为教育“双减”赋能，助力推动宜春市智慧教育建设，实现教育均衡优质发展。</p> 
+  
+</div>
+            
