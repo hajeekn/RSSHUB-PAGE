@@ -5,37 +5,38 @@ categories:
  - 游戏
  - 3DMGame
  - 新闻中心
-headimg: 'https://img.3dmgame.com/uploads/images/news/20211215/1639558883_194843.jpg'
+headimg: 'https://img.3dmgame.com/uploads/images/news/20211215/1639566864_655458.png'
 author: 3DMGame
 comments: false
 date: Wed, 15 Dec 2021 10:01:00 GMT
-thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211215/1639558883_194843.jpg'
+thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211215/1639566864_655458.png'
 ---
 
 <div>   
 <p style="text-indent:2em;">
-什么是元宇宙？截至目前，“元宇宙”还没有一个被广泛认可的确切定义，对它的描述，大家还处在“比拼想象力”的阶段。
+12月15日消息，据国内媒体报道，近日，董明珠携秘书孟羽童出席某活动时，<strong><span style="color:#E53333;">孟羽童上台即兴热舞，董明珠亲自为她接话筒。对此，有网友灵魂发问：“到底谁是谁的秘书？”</span></strong> 
+</p>
+<p style="text-indent:2em;">
+<strong><span style="color:#337FE5;">视频欣赏：</span></strong> 
+</p>
+<p style="text-align:center;">
+<iframe src="https://player.youku.com/embed/XNTgyNzE1Mjc4MA==?client_id=5a73c0df8eb0d91d" allowfullscreen width="640" height="480" frameborder="0">
+</iframe>
+</p>
+<p style="text-indent:2em;">
+此前，<strong>董明珠曾表示要把孟羽童培养成第二个“董明珠”，被人猜测是为格力进入直播带货业培养网红。</strong> 
+</p>
+<p style="text-indent:2em;">
+据媒体报道，11月3日孟羽童在格力电器官方直播间进行了直播带货首秀，直播进行了4个小时，共上架24件商品，总观看人数超11.3万人，单场销售额约62万元。
+</p>
+<p style="text-indent:2em;">
+值得一提的是，在前不久的中国企业家博鳌论坛上，董明珠在接受采访时谈及了对孟羽童的培养规划。<strong>董明珠表示，不仅仅是让羽童带货，是希望她能把她的智慧和勤奋，体现在她的事业上，为国家发展发挥智慧。</strong> 
+</p>
+<p style="text-indent:2em;">
+公开资料显示，2017年，孟羽童被保送至浙江大学西班牙语系辅修竺可桢学院创新与创业管理强化班。另外，在《初入职场的我们》节目里，孟羽童在自我介绍中提到，自己有舞蹈特长，达到中国舞十级。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211215/1639558883_194843.jpg" alt="不认同FaceBook的描绘 周鸿祎将元宇宙分为四个流派" referrerpolicy="no-referrer">
-</p>
-<p style="text-indent:2em;">
-12月14日，在2021上海数字创新大会上，360集团创始人、董事长周鸿祎接受采访时谈到了他对元宇宙等诸多热点话题的理解。
-</p>
-<p style="text-indent:2em;">
-周鸿祎表示，元宇宙这个概念还没有形成定论，每个人都有自己的理解，<strong>对于Facebook(现改名为Meta)所描绘的元宇宙，他并不认同。</strong>
-</p>
-<p style="text-indent:2em;">
-周鸿祎认为，如果人们都到虚拟的世界中去追寻现实世界得不到的满足，现实世界将停滞不前。
-</p>
-<p style="text-indent:2em;">
-值得注意的是，<strong>周鸿祎大致将元宇宙分为四个流派</strong>：<strong>第一，游戏族；第二，炒币族；第三，炒股族</strong>，无论是造服务器、交换机、网络设备、网络通信的，还是做云计算、大数据、AI、芯片的，只要是元宇宙相关的数字化技术的，都说自己是元宇宙。
-</p>
-<p style="text-indent:2em;">
-<strong><span style="color:#E53333;">第四，如Facebook一样做虚拟社区</span></strong><strong><span style="color:#E53333;">的，即通过仿真方式，通过虚拟现实的方式，在网上构造一个完全虚拟的世界。</span></strong>
-</p>
-<p style="text-indent:2em;">
-据了解，元宇宙的概念最早在1992年的科幻小说《溃雪》提出，是指由现实与虚拟混合而成的数字世界，允许人们透过虚拟环境在不同装置间移动及沟通。
+<img src="https://img.3dmgame.com/uploads/images/news/20211215/1639566864_655458.png" alt="孟羽童跳舞董明珠帮拿话筒引热议 网友：到底谁是秘书" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             
