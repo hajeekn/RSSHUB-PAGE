@@ -5,16 +5,19 @@ categories:
  - 游戏
  - 3DMGame
  - 新闻中心
-headimg: 'https://img.3dmgame.com/uploads/images/news/20211218/1639830701_316912.jpg'
+headimg: 'https://img.3dmgame.com/uploads/images/news/20211218/1639832057_100764.jpg'
 author: 3DMGame
 comments: false
 date: Sat, 18 Dec 2021 12:32:00 GMT
-thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211218/1639830701_316912.jpg'
+thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211218/1639832057_100764.jpg'
 ---
 
 <div>   
 <p style="text-indent:2em;">
-育碧刚刚发布了《<a target="_blank" href="https://www.3dmgame.com/games/acvalhalla/">刺客信条：英灵殿</a>》“末日曙光”DLC的新截图，同时提醒玩家，该DLC已经开启了预购（198元），预购玩家可以获得“曙光组合包”奖励。
+育碧刚刚发布了《<a target="_blank" href="https://www.3dmgame.com/games/acvalhalla/">刺客信条：英灵殿</a>》“末日曙光”DLC的新截图，同时提醒玩家，该DLC已经<a href="https://store.ubi.com/cn/%E5%88%BA%E5%AE%A2%E4%BF%A1%E6%9D%A1%EF%BC%9A%E8%8B%B1%E7%81%B5%E6%AE%BF-%E6%9C%AB%E6%97%A5%E6%9B%99%E5%85%89/616ed9850d253c42d49fa649.html" target="_blank">开启了预购</a>（198元），预购玩家可以获得“曙光组合包”奖励。
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20211218/1639832057_100764.jpg" alt="《刺客信条：英灵殿》“末日曙光”DLC新图" referrerpolicy="no-referrer">
 </p>
 <p style="text-indent:2em;">
 矮人王国“瓦特阿尔海姆”正在崩塌，奥丁之子被火焰巨人所俘虏。艾沃尔必须亲历奥丁的宿命，释放全新神力，踏上北欧神话的征程。

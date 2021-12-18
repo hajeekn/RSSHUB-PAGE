@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 人人都是产品经理
  - 天天问
-headimg: 'https://picsum.photos/400/300?random=9494'
+headimg: 'https://picsum.photos/400/300?random=2279'
 author: 人人都是产品经理
 comments: false
-date: Sat, 18 Dec 2021 12:35:42 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9494'
+date: Sat, 18 Dec 2021 13:26:56 GMT
+thumbnail: 'https://picsum.photos/400/300?random=2279'
 ---
 
 <div>   
