@@ -1,0 +1,18 @@
+
+---
+title: 'JK、Lolita 都是我的爱好，但男朋友不让我穿怎么办？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic2.zhimg.com/v2-c1734512e4e4e5fc6b69da8687153bd1_1440w.jpg'
+author: 知乎
+comments: false
+date: Mon, 20 Dec 2021 11:12:23 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-c1734512e4e4e5fc6b69da8687153bd1_1440w.jpg'
+---
+
+<div>   
+莓气泄露的回答<br><br><p data-pid="RclHWZsf">这么萌的装扮不喜欢可惜了可惜了~</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-c1734512e4e4e5fc6b69da8687153bd1_1440w.jpg" data-caption data-size="normal" data-rawwidth="720" data-rawheight="722" data-default-watermark-src="https://pic4.zhimg.com/v2-ee0a1ac44131667afd853865c9d8f461_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-c1734512e4e4e5fc6b69da8687153bd1_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="vQKjh7IL">对方的喜好你无法强行改变但是你可以慢慢的感染他 !</p><p data-pid="3L4jTR-W">双方的感情都很深 ，会有一方愿为一方改变~</p><p data-pid="MItSCOnp">如果你很爱你男盆友可以选择妥协退步，做到尽量少穿或者不穿漏光的短裙，毕竟爱是相互理解和包容的。或者你对短裙情有独钟，可以宅在家时两个人的世界里穿给他看，他绝对不会反对。</p><p data-pid="KMvOmtpJ">磨合期建议你：搭配一些基本款~</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-e173194d05600a6977c68d6be8f014bf_1440w.jpg" data-caption data-size="normal" data-rawwidth="718" data-rawheight="882" data-default-watermark-src="https://pic3.zhimg.com/v2-63801a913f5cd3a2f0235b7c6dce9678_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-e173194d05600a6977c68d6be8f014bf_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="PwkaeDff">比如牛仔裤，也很靓！！！</p><p data-pid="s4UW196Y">等到一定时候可以带他一起穿情侣装~真的很飒~</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-175424c596cd048525376948aa76729d_1440w.jpg" data-caption data-size="normal" data-rawwidth="662" data-rawheight="756" data-default-watermark-src="https://pic1.zhimg.com/v2-678a0f6c9670e370bda6e5c8235c934c_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-175424c596cd048525376948aa76729d_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="1qA3-OWE">潜移默化的改变他就可以啦！！！</p><p data-pid="Obi1bu2f">还有这种纯肉色光腿神器的也太好搭配了，随便各种风格的衣服都可以驾驭 ！</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-de23e311cd4b839a9e6c05066a554ecf_1440w.jpg" data-caption data-size="normal" data-rawwidth="1178" data-rawheight="1766" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-de23e311cd4b839a9e6c05066a554ecf_r.jpg" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-e8b3470b248eaf7810c930613abb55e9_1440w.jpg" data-caption data-size="normal" data-rawwidth="2292" data-rawheight="3438" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-e8b3470b248eaf7810c930613abb55e9_r.jpg" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-6c4ce9629a3610a7f09ccc9333a46a13_1440w.jpg" data-caption data-size="normal" data-rawwidth="1217" data-rawheight="1826" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-6c4ce9629a3610a7f09ccc9333a46a13_r.jpg" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-bb407202eccf687dbf6e74721f7af421_1440w.jpg" data-caption data-size="normal" data-rawwidth="2221" data-rawheight="3332" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-bb407202eccf687dbf6e74721f7af421_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="r2cRfy6Y">贴身特别舒服而且超级无敌显身材，上身穿不穿对比真的很明显。</p><p></p><p></p><p></p>  
+</div>
+            
