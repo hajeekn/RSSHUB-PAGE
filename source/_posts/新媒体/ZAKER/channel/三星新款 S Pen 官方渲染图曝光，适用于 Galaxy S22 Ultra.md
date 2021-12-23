@@ -1,0 +1,18 @@
+
+---
+title: '三星新款 S Pen 官方渲染图曝光，适用于 Galaxy S22 Ultra'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202112/61c3fa71b15ec01cab19160c_1024.jpg'
+author: ZAKER
+comments: false
+date: Thu, 23 Dec 2021 01:34:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202112/61c3fa71b15ec01cab19160c_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 12 月 23 日消息，mobilefun 现上架了一款三星 S Pen 黑色手写笔，宣称适用于 Galaxy S22 Ultra。除去黑色版本外，官方似乎还提供了绿色、红色、白色的版本。</p><p>值得一提的是，这款手写笔还给出了一个 49.99 英镑（约 423.92 元人民币）的标签，但不排除是占位符的可能。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202112/61c3fa71b15ec01cab19160c_1024.jpg" data-height="646" data-width="1101" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202112/61c3fa71b15ec01cab19160c_1024.jpg" referrerpolicy="no-referrer"></div></div>从商品信息显示的规格来看，这款手写笔型号为 EJ-PS908BBEGEU，采用了圆形触控笔、0.7 毫米尖端，可在平板电脑上进行绘图和书写，而且还支持精准导航，可用作手机遥控器，将您的点击变成动作。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202112/61c3fa71b15ec01cab19160d_1024.jpg" data-height="450" data-width="450" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202112/61c3fa71b15ec01cab19160d_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202112/61c3fa71b15ec01cab19160e_1024.jpg" data-height="450" data-width="450" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202112/61c3fa71b15ec01cab19160e_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202112/61c3fa71b15ec01cab19160f_1024.jpg" data-height="450" data-width="450" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202112/61c3fa71b15ec01cab19160f_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202112/61c3fa71b15ec01cab191610_1024.jpg" data-height="450" data-width="450" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202112/61c3fa71b15ec01cab191610_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres2.myzaker.com/202112/61c3fa71b15ec01cab191611_1024.jpg" data-height="450" data-width="450" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202112/61c3fa71b15ec01cab191611_1024.jpg" referrerpolicy="no-referrer"></div></div>从此前外媒曝光的信息来看，三星 Galaxy S22 系列将根据地区不同，分为 Exynos 2000 和骁龙 8 Gen 1 版本，将拥有 120Hz 的屏幕刷新率、立体声扬声器、25W / 45W 快充、无线充电、防水等功能，更多内容可参考 IT 之家此前报道。<p></p><p>IT 之家知悉，三星 Galaxy S22 Ultra 预计还将配备一个 5000 毫安时电池，支持 45W 快速充电，再加上外形十分接近 Note 系列，相信会成为三星接下来一年中的最大卖点。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
