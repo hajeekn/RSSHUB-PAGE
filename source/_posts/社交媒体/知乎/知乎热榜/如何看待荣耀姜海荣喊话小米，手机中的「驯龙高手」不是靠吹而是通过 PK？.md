@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic2.zhimg.com/v2-4478dd4e886cedc0bc4f1900fff2a14c_1440w.jpg'
+headimg: 'https://picsum.photos/400/300?random=2794'
 author: 知乎
 comments: false
-date: Wed, 29 Dec 2021 06:28:02 GMT
-thumbnail: 'https://pic2.zhimg.com/v2-4478dd4e886cedc0bc4f1900fff2a14c_1440w.jpg'
+date: Wed, 29 Dec 2021 06:39:19 GMT
+thumbnail: 'https://picsum.photos/400/300?random=2794'
 ---
 
 <div>   
-NicoYu的回答<br><br><p data-pid="5Xq9vh-T">眯眯眼谁家没有一样，别老抓着别人不看自己家拍的多过分：</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-4478dd4e886cedc0bc4f1900fff2a14c_1440w.jpg" data-caption data-size="normal" data-rawwidth="1170" data-rawheight="652" data-default-watermark-src="https://pic1.zhimg.com/v2-d59ebb68e0a2c5008c4c2ba6320ce145_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-4478dd4e886cedc0bc4f1900fff2a14c_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
+叫作旺仔终结者的回答<br><br><p data-pid="UfyXy-4t">本来就不是靠说的，而是要靠实际优化情况的，所以这个喊话实属正常。</p><p data-pid="lQc11Swf">小米这边是有前车之鉴的，毕竟小米11就是着了888的道，踩了坑。肯定自己也有总结一番经验，这次骁龙8gen1，感觉应该不会重蹈覆辙 。</p><p data-pid="5zD9sY2Z">而荣耀这边，优化相对来说做的一直蛮好的，没有出现过火龙手机的情况。</p><p data-pid="qnW9g7wh">但是这次是一个几乎全新的8gen，具体怎么样还是得看后续。</p>  
 </div>
             
