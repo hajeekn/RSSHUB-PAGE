@@ -23,8 +23,7 @@ thumbnail: 'https://img01.vgtime.com/game/cover/2021/12/30/211230112044420_u524.
 
                 
                 
-                    <div class="topicContent front_content sort_content">Key社视觉小说游戏《夏日口袋（Summer Pockets）》确定动画化，更多详情有待后续公开。
-</div>
+                    <div class="topicContent front_content sort_content">Key社视觉小说游戏《夏日口袋（Summer Pockets）》确定动画化，更多详情有待后续公开。</div>
                     <ul class="vg_short_img_box">
                         
                             <li><img alt="https://img01.vgtime.com/game/cover/2021/12/30/211230112044420_u524.jfif" src="https://img01.vgtime.com/game/cover/2021/12/30/211230112044420_u524.jfif?x-oss-process=image/resize,m_fill,h_480,w_480,limit_0" referrerpolicy="no-referrer"></li>
