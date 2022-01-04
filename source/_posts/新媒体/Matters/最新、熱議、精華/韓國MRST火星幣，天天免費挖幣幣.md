@@ -1,0 +1,18 @@
+
+---
+title: '韓國MRST火星幣，天天免費挖幣幣'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/30d14bf2-b5d9-494c-b7f7-445aaf5feb0b.jpeg'
+author: Matters
+comments: false
+date: Tue, 04 Jan 2022 04:41:36 GMT
+thumbnail: 'https://assets.matters.news/embed/30d14bf2-b5d9-494c-b7f7-445aaf5feb0b.jpeg'
+---
+
+<div>   
+<figure class="image"><img src="https://assets.matters.news/embed/30d14bf2-b5d9-494c-b7f7-445aaf5feb0b.jpeg" data-asset-id="30d14bf2-b5d9-494c-b7f7-445aaf5feb0b" referrerpolicy="no-referrer"><figcaption><span>圖片來源：石頭哥繪製；照片取自BNDX幣官網</span></figcaption></figure><h2><br class="smart">韓國MRST火星幣，天天免費挖幣幣</h2><p>每週五分鐘，掌握實務技巧，讓你從容應對加密貨幣！</p><h2>【前言】</h2><p>日安，我的朋友，我是<a href="https://www.mentorstone.com.tw/" rel="noopener noreferrer" target="_blank">石頭哥-你的職涯導師</a>。之前學過了每24hrs挖一枚新加坡公司推的《Hi 幣》，也可同時荷蘭人力銀行推的《BNDX 幣》，今天石頭哥再來帶你看看一個比24小時挖一次還多三倍的韓國《火星幣》-MRST幣。</p><h2>【火星幣：手機 8hr，就可以獲得空投一次】</h2><p>這個比Hi 幣、BNDX 幣24 hr空投一次，更棒，他是8、16、24小時各別空投一次，不過我暫時不建議你花錢買燃燒。</p><h3>《怎麼快速免費累積 MRST火星幣呢？》</h3><p><strong>一、下載火星挖礦APP：</strong><br class="smart">到下述官網查詢，或是像iPhone則下載：MRST Mining Apphttps://<a href="https://matters.news/@masonmsa/%E9%9F%93%E5%9C%8Bmrst%E7%81%AB%E6%98%9F%E5%B9%A3-%E5%A4%A9%E5%A4%A9%E5%85%8D%E8%B2%BB%E6%8C%96%E5%B9%A3%E5%B9%A3-bafyreidulcw4ohcgdhy5i6rybwpwvwxm3lk4m24a2nwsin5xf6arpcog4q" rel="noopener noreferrer" target="_blank">www.marscompany.co</a></p><p><strong>二、註冊方式：</strong><br class="smart">一樣是手機號碼、email、FB帳號都行。<strong><br class="smart"></strong></p><p><strong>三、他需要介紹碼才能註冊：</strong><br class="smart">石頭哥的介紹碼：Stone668</p><p><strong>四、快速累積MRST火星幣技巧：<br class="smart">1.組 6名團隊：<br class="smart">歡迎找石頭哥組隊。<br class="smart">隊友們一起提升速度 15% (約一天可多挖到 2.4 枚MRST火星幣)</strong><br class="smart">2. 每推薦一名好友，獲得 2 枚MRST火星幣<br class="smart">3. 挖礦能量：參考介紹我的高手呈現如下，<br class="smart">挖礦能量 = 基礎(100%)+團隊獎勵(15%)+寵物(30%)+遊戲內取得(25%) =170%</p><figure class="image"><img src="https://assets.matters.news/embed/d748a8b7-25e0-4f4e-bfd6-abc79105ae06.jpeg" data-asset-id="d748a8b7-25e0-4f4e-bfd6-abc79105ae06" referrerpolicy="no-referrer"><figcaption><span>圖片來源：石頭哥混合圖片繪製；照片取自BNDX幣官網</span></figcaption></figure><h2><strong><br class="smart">《關於韓國Marscompany這家公司寫的訴求》</strong></h2><p><strong>一、火星的元界遊戲平台：</strong><br class="smart">這是一個基於15年的開發經驗，你可以在一個叫做殖民地的城市空間裡擁有房地產，買賣商品，甚至做廣告、表演和玩遊戲，現實你生活中夢寐以求的事物，你也可以用各種顏色裝飾你的家和建築物，舉辦展覽和音樂會，與許多人分享快樂。</p><p><strong>二、元界市場規模與展望：</strong><br class="smart">Metaverse 市場目前規模為 1000 億美元，預計到 2030 年將呈爆發式增長並達到 15000 億美元。<strong><br class="smart">三、他的MMORPG開發經驗：</strong><br class="smart">全球MMO Cabal Online的專業團隊，擁有豐富的在線運營經驗。<strong><br class="smart">四、他的盈利模式：</strong>你看完一定會感覺跟蠻多一堆廣告的寫作平台還蠻像的，只是他建構在元界各式遊戲上。第一階段：付費商品的銷售、第二階段：廣告 、第三階段：虛擬空間業務、第四階段：電商平台，可以在metaverse中運行購物中心、UGC遊戲...等。</p><p><strong>五、相關細節，就請自行查詢他的官方網站囉。</strong></p><figure class="image"><img src="https://assets.matters.news/embed/d0e27bc0-2e95-4952-b0c1-13197c7bc8b4.jpeg" data-asset-id="d0e27bc0-2e95-4952-b0c1-13197c7bc8b4" referrerpolicy="no-referrer"><figcaption><span>圖片來源：石頭哥繪製；照片取自BNDX幣官網</span></figcaption></figure><h2><br class="smart">【結論】</h2><p>未來的世界可能真的是實體 + 加密貨幣同步並行的貨幣世界，提早了解區塊鍊、加密貨幣，我想也不算是一件壞事吧。MRST火星幣預計在2023年上線，感覺還真的會等到天荒地老，好像小樂挖 Pi幣一樣一挖就是一兩年，避免跨大不實的話，還是建議你就只要免費挖幣幣就好，那些宣傳就不要理會啦，期待他早一點開放交易，像是Potato寫作變成CFO幣幣、Matters寫作變成Like幣，讓大家都能兌換成新台幣是最棒的。</p><h2>長文請參考石頭哥的《<a href="https://www.mentorstone.com.tw/" rel="noopener noreferrer" target="_blank">你閱讀-我捐款</a>》網站</h2>  
+</div>
+            
