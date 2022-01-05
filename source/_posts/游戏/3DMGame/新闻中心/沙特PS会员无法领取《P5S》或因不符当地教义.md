@@ -20,7 +20,7 @@ PlayStation最近官方确认了2022年1月的PS Plus会员免费游戏，许多
 <img src="https://img.3dmgame.com/uploads/images/news/20220105/1641373800_296085.png" alt="沙特PS会员无法领取《P5S》或因不符当地教义" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-这种情况似乎只发生在沙特阿拉伯，中东其他地区如阿联酋、阿曼的用户则表示自己可以正常领取《P5S》。沙特 Reddit论坛 网友Orochisan17表示之前《逃生》作为会免游戏的时候也发生过类似情况，他们的《逃生》被替换成《山羊模拟器》。另一位网友表示沙特的PS Plus会免送过重复的游戏，比如《只是就是力量（Knowledge is Power）》，这种重复送游戏的情况在其他地区没有出现过，这又不是Eipc。
+这种情况似乎只发生在沙特阿拉伯，中东其他地区如阿联酋、阿曼的用户则表示自己可以正常领取《P5S》。 Reddit论坛 的沙特<span>网友Orochisan17表示之前《逃生》作为会免游戏的时候也发生过类似情况，他们的《逃生》被替换成《山羊模拟器》。另一位网友表示沙特的PS Plus会免送过重复的游戏，比如《只是就是力量（Knowledge is Power）》，这种重复送游戏的情况在其他地区没有出现过，这又不是Eipc。</span>
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20220105/1641373808_932280.png" alt="沙特PS会员无法领取《P5S》或因不符当地教义" referrerpolicy="no-referrer"> 
