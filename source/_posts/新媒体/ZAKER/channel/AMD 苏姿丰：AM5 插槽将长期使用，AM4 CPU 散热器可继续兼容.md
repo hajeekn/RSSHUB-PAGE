@@ -1,0 +1,18 @@
+
+---
+title: 'AMD 苏姿丰：AM5 插槽将长期使用，AM4 CPU 散热器可继续兼容'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202201/61d778cd8e9f0913c7021012_1024.jpg'
+author: ZAKER
+comments: false
+date: Thu, 06 Jan 2022 18:03:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202201/61d778cd8e9f0913c7021012_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 1 月 7 日消息，AMD 下一代锐龙 7000 系桌面处理器将于今年发布，产品将采用 5nm 制程工艺、Zen 4 架构。外媒 PC World 采访了 AMD 首席执行官苏姿丰博士，谈到了 AM5 插槽的有关情况。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202201/61d778cd8e9f0913c7021012_1024.jpg" data-height="424" data-width="1200" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202201/61d778cd8e9f0913c7021012_1024.jpg" referrerpolicy="no-referrer"></div></div>苏姿丰表示，AMD 计划长期使用 AM5 插槽，使其寿命能够像 AM4 一样长。目前还无法准确判断 AM5 的未来发展情况，但是未来至少不会出现因为 BIOS 问题导致平台不支持新一代处理器的情况。<p></p><p>此前 AMD 的桌面处理器一直采用 PGA 封装方式，底部是密集的针脚，使用 AM4 等接口。即将推出的 AM5 接口更换为 LGA 方式，LGA1718 规格，CPU 底部是平整的金属触点，主板上的插槽上具有凸起的触点。这种方式能够大大减少处理器在运输过程中的损坏情况，同时也便于玩家安装。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202201/61d778cd8e9f0913c7021013_1024.jpg" data-height="461" data-width="820" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202201/61d778cd8e9f0913c7021013_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202201/61d778cd8e9f0913c7021014_1024.jpg" data-height="1440" data-width="1440" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202201/61d778cd8e9f0913c7021014_1024.jpg" referrerpolicy="no-referrer"></div></div>苏姿丰还称，" 我们对 AM4 的发展非常满意，我们此前说过要保留这一接口很长时间，如今成功实现了这一目标。消费者应该期待 AM5 会像 AM4 一样，成为一个长期存在的平台。"<p></p><p>IT 之家获悉， PC World 还采访了 AMD 技术营销总监 Robert Hallock、游戏解决方案首席架构师 Frank Azor。他们表示，AMD 转向全新的 LGA 连接方式，原因是 DDR5 以及 PCIe 5.0 的需求，这两种技术都需要更多的引脚，而 LGA 相比 PGA 支持更高的引脚密度。</p><p>除此之外，锐龙 7000 系列处理器的电容也放置在基板上方，目的是为底部留出更多的空间，可以放置更多的触点。官方确认，AM4 CPU 散热器将兼容 AM5 平台，但是新处理器的功率等细节暂时没有公布。此外，一些散热器厂商很可能已经准备好了适用于 AM5 平台的 高端一体式水冷散热器。</p><p>之前曝光的 AM5 平台散热器：</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202109/6143001e8e9f0958f1267f7d_1024.jpg" data-height="440" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/6143001e8e9f0958f1267f7d_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202109/6143001e8e9f0958f1267f7f_1024.jpg" data-height="440" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202109/6143001e8e9f0958f1267f7f_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres2.myzaker.com/202109/6143001e8e9f0958f1267f81_1024.jpg" data-height="440" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/6143001e8e9f0958f1267f81_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
