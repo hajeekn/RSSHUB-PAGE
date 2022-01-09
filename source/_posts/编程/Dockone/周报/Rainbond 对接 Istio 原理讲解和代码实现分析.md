@@ -8,7 +8,7 @@ categories:
 headimg: 'https://static.goodrain.com/wechat/initializer-istio/Process.png'
 author: Dockone
 comments: false
-date: 2022-01-09 12:36:10
+date: 2022-01-09 13:27:48
 thumbnail: 'https://static.goodrain.com/wechat/initializer-istio/Process.png'
 ---
 
