@@ -1,0 +1,19 @@
+
+---
+title: '名傲移动机器人参评_维科杯·OFweek 2021中国机器人行业年度影响力品牌企业奖_'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-01/11/chenting/1641909637187030586.png'
+author: 高科技行业门户
+comments: false
+date: Tue, 11 Jan 2022 13:58:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-01/11/chenting/1641909637187030586.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">维科杯·OFweek 2021中国<span class="hrefStyle"><a href="https://robot.ofweek.com/" target="_blank" title="机器人">机器人</a></span>行业年度评选(简称OFweek Robot Awards 2021)，是由中国高科技行业门户OFweek维科网及旗下权威的机器人专业媒体-OFweek维科网·机器人共同举办。此次活动旨在为机器人行业的产品、技术和企业搭建品牌传播展示平台，并借助OFweek维科网平台资源及影响力，向行业用户和市场推介创新产品与方案，鼓励更多企业投入技术创新；同时为行业输送更多创新产品、前沿技术，一同畅想机器人行业的未来。</p><p style="text-indent: 2em; text-align: left;">维科杯· OFweek 2021中国机器人行业年度评选“OFweek Robot Awards 2021”将于2022年1月11日－29日为网络投票阶段，颁奖典礼将于4月20日在深圳举办。</p><p style="text-indent: 2em; text-align: left;">目前，活动正处于火热的网络投票阶段，业内企业积极响应。名傲移动机器人（上海）有限公司已正式参评“维科杯·OFweek 2021中国机器人行业年度影响力品牌企业奖”。</p><p style="text-indent: 2em; text-align: left;">参评奖项：维科杯·OFweek 2021中国机器人行业年度影响力品牌企业奖</p><p style="text-indent: 2em; text-align: left;">企业介绍：</p><p style="text-indent: 2em; text-align: center;"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-01/11/chenting/1641909637187030586.png" title="名傲移动机器人参评“维科杯·OFweek 2021中国机器人行业年度影响力品牌企业奖”" alt="名傲移动机器人参评“维科杯·OFweek 2021中国机器人行业年度影响力品牌企业奖”" width="300" height="204" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">Mobile Industrial Robots（MiR）致力开发并销售业界领先的自主移动机器人（Autonomous Mobile Robot，简称：AMR）。AMR技术能够快速，轻松且经济高效地管理内部物流，让员工能够转而从事更有价值的工作。 目前全球已有数百家来自制造业、物流业及<span class="hrefStyle"><a href="http://medical.ofweek.com/" target="_blank" title="医疗">医疗</a></span>卫生领域的客户户引入了MiR的创新机器人，这些企业机构的规模涵盖大型跨国集团及来自各国各地区的中型本土企业。</p><p style="text-indent: 2em; text-align: left;">具备开放性的协作移动机器人，MiR AMR可轻松集成用于多种应用，满足不同类型的运输自动化需求。MiR目前共有七款不同载重等级的AMR产品，从最轻量的一百公斤，到近期发布的一千三百五十公斤，能够满足多行业产线全场景运用。凭借上述优势，MiR全球销售业绩在今年第三季度同比增长高达40%。</p><p style="text-indent: 2em; text-align: left;">作为全球移动机器人市场的领导者，MiR在60多个国家及地区设立了分销网络，并在纽约，圣地亚哥，新加坡，法兰克福，巴塞罗那，东京和上海设有地区办事处。MiR由经验丰富的丹麦机器人行业专业人士创立，总部位于丹麦欧登塞，并于2018年由全球著名的自动测试设备供应商泰瑞达（Teradyne）收购。</p><p style="text-indent: 2em; text-align: left;">参评理由：</p><p style="text-indent: 2em; text-align: left;">MiR中国区销售总监 张愉表示：“MiR是当前市场上AMR产品最为广泛的制造商之一，能够充分满足不同行业客户在各种具体场景下对内部运输的细分需求。MiR AMR已在电子、汽车、消费品等诸多行业得到了广泛的应用，目前我们正不断向医院、生命科学和公共卫生领域扩展，希望助力医疗机构提升院内物流效率与安全，实现自动化转型升级，为建设智慧医疗贡献我们的力量。”</p><p style="text-indent: 2em; text-align: left;">2021年被誉为复合机器人元年，这代表着行业认可复合型机器人成为未来技术发展的重要趋势。如同拥有了人的腿、手、眼，复合机器人能够满足工业运用场景愈发细分的生产需求。早在2020年2月，全球移动机器人市场的领导者- Mobile Industrial Robots（以下简称：MiR）便与优傲机器人（Universal Robots，以下简称为UR）携手，投资3,600万美元在丹麦共同建立<span class="hrefStyle"><a href="https://robot.ofweek.com/KW-xiezuojiqiren.html" target="_blank" title="协作机器人">协作机器人</a></span>中心，强强联手开拓复合机器人市场。</p><p style="text-indent: 2em; text-align: left;">早在2020年2月，全球移动机器人市场的领导者- Mobile Industrial Robots（以下简称：MiR）便与优傲机器人（Universal Robots，以下简称为UR）携手，投资3,600万美元在丹麦共同建立协作机器人中心，强强联手开拓复合机器人市场，优势在于：</p><p style="text-indent: 2em; text-align: left;">· 柔性安全叠加精细动作，复合机器人优势显著</p><p style="text-indent: 2em; text-align: left;">· 精密扫描，质检样品拣选自动化</p><p style="text-indent: 2em; text-align: left;">· 精准抓取，产线上下料自动化</p><p style="text-indent: 2em; text-align: left;">· 顶部模块，增强版<span class="hrefStyle"><a href="https://gongkong.ofweek.com/" target="_blank" title="工业自动化">工业自动化</a></span></p><p style="text-indent: 2em; text-align: left;">MiR目前共有七款不同载重等级的AMR产品，从最轻量的一百公斤，到一千三百五十公斤，能够满足多行业产线全场景运用。在技术不断发展的同时，MiR也在不断开拓AMR的功能边界与运用场景，包括继续研发复合机器人的应用。</p><p style="text-indent: 2em; text-align: left;">投票时间：本届“OFweek Robot Awards 2021”活动将于2022年1月11日进入投票阶段，欢迎各位踊跃投票！</p><p style="text-indent: 2em; text-align: left;">投票地址：https://www.ofweek.com/award/2021/robot/vote.html</p> 
+  
+</div>
+            
