@@ -1,0 +1,18 @@
+
+---
+title: 'DICE游戏大奖提名公布 《瑞奇与叮当 时空跳转》以九项提名领跑'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202201/61e187518e9f093c135a13cf_1024.jpg'
+author: ZAKER
+comments: false
+date: Fri, 14 Jan 2022 06:51:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202201/61e187518e9f093c135a13cf_1024.jpg'
+---
+
+<div>   
+<p>今日，互动艺术与科学学会（Academy of Interactive Arts & Sciences）公布了第 25 届 D.I.C.E. 游戏大奖的提名名单，《瑞奇与叮当 时空跳转》以 9 项提名在所有提名游戏中领跑，《死亡循环》以 8 项提名紧随其后，《邪恶冥刻》与《双人成行》都获得了 6 项提名。</p><p>值得注意的是，国产独立游戏《笼中窥梦》获得 " 杰出技术成就奖 " 和 " 年度移动游戏 " 两项提名。获奖名单将在 2 月 24 日举行的 D.I.C.E. 颁奖典礼上公布。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202201/61e187518e9f093c135a13cf_1024.jpg" data-height="277" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202201/61e187518e9f093c135a13cf_1024.jpg" referrerpolicy="no-referrer"></div></div>以下为完整提名名单：<p></p><p><b><strong>年度游戏</strong></b></p><p>死亡循环</p><p>邪恶冥刻</p><p>双人成行</p><p>瑞奇与叮当 时空跳转</p><p>Returnal</p><p><b><strong>动画设计杰出成就</strong></b></p><p>使命召唤 先锋</p><p>死亡循环</p><p>柯娜 灵魂之桥</p><p>瑞奇与叮当 时空跳转</p><p>生化危机 村庄</p><p><b><strong>艺术指导杰出成就</strong></b></p><p>使命召唤 先锋</p><p>死亡循环</p><p>柯娜 灵魂之桥</p><p>瑞奇与叮当 时空跳转</p><p>生化危机 村庄</p><p><b><strong>角色塑造杰出成就</strong></b></p><p>死亡循环 – 柯尔特 · 范</p><p>柯娜 灵魂之桥 – 柯娜</p><p>奇异人生 本色 – 艾黎克丝 · 陈</p><p>瑞奇与叮当 时空跳转 – 蕾薇特</p><p>生化危机 村庄 – 蒂米特雷斯库夫人</p><p><b><strong>原创作曲杰出成就</strong></b></p><p>死亡循环</p><p>双人成行</p><p>柯娜 灵魂之桥</p><p>意航员 2</p><p>Returnal</p><p><b><strong>音效设计杰出成就</strong></b></p><p>极限竞速 地平线 5</p><p>光环 无限</p><p>双人成行</p><p>瑞奇与叮当 时空跳转</p><p>Returnal</p><p><b><strong>剧情杰出成就</strong></b></p><p>历历在目</p><p>邪恶冥刻</p><p>漫威银河护卫队</p><p>意航员 2</p><p>遗忘之城</p><p><b><strong>技术杰出成就</strong></b></p><p>战地 2042</p><p>极限竞速 地平线 5</p><p>笼中窥梦</p><p>瑞奇与叮当 时空跳转</p><p>死亡回归</p><p><b><strong>年度动作游戏</strong></b></p><p>死亡循环</p><p>光环 无限</p><p>密特罗德 生存恐惧</p><p>Returnal</p><p>上行战场</p><p><b><strong>年度冒险游戏</strong></b></p><p>死亡之门</p><p>双人成行</p><p>漫威的银河护卫队</p><p>意航员 2</p><p>生化危机 村庄</p><p><b></b></p><p><b></b></p><p><b><strong>年度家庭游戏</strong></b></p><p>集合啦！动物森友会</p><p>Cozy Grove</p><p>马里欧派对 超级巨星</p><p>瑞奇与叮当 时空跳转</p><p>分享同乐！瓦里奥制造</p><p><b></b></p><p><b></b></p><p><b><strong>年度格斗游戏</strong></b></p><p>月姬格斗 Type Lumina</p><p>罪恶装备 - 斗争 -</p><p>尼克儿童频道全明星大乱斗</p><p><b><strong>年度竞速游戏</strong></b></p><p>F1 2021</p><p>极限竞速：地平线 5</p><p>风火轮 释放</p><p><b><strong>年度角色扮演游戏</strong></b></p><p>最终幻想 14 晓月之终途</p><p>开拓者 正义之怒</p><p>真女神转生 5</p><p>破晓传说</p><p>漫野奇谭</p><p><b><strong>年度体育游戏</strong></b></p><p>FIFA 22</p><p>马力欧高尔夫 超级冲冲冲</p><p>NBA 2K22</p><p>极限国度</p><p>攀岩 2</p><p><b><strong>年度模拟 / 策略游戏</strong></b></p><p>帝国时代 4</p><p>Gloomhaven</p><p>欺诈之地</p><p>邪恶冥刻</p><p>循环勇者</p><p><b><strong>沉浸式现实技术杰出成就奖</strong></b></p><p>孤独回声 2</p><p>Puzzling Places</p><p>生化危机 4 VR</p><p>Song in the Smoke</p><p>YUKI</p><p><b><strong>年度沉浸式现实游戏</strong></b></p><p>Demeo</p><p>I Expect You To Die 2: The Spy and the Liar</p><p>孤独回声 2</p><p>生化危机 4 VR</p><p>Song in the Smoke</p><p><b><strong>独立游戏杰出成就奖</strong></b></p><p>死亡之门</p><p>邪恶冥刻</p><p>循环勇者</p><p>沙贝</p><p>Unpacking</p><p><b><strong>年度移动游戏</strong></b></p><p>Behind the Frame</p><p>Fantasian</p><p>英雄联盟手游</p><p>笼中窥梦</p><p>宝可梦大集结</p><p><b><strong>年度联机游戏</strong></b></p><p>喋血复仇</p><p>使命召唤 先锋</p><p>最终幻想 14 晓月的终焉</p><p>光环 无限</p><p>球胜大本营</p><p><b><strong>游戏设计杰出成就奖</strong></b></p><p>死亡循环</p><p>邪恶冥刻</p><p>双人成行</p><p>循环勇者</p><p>瑞奇与叮当 时空跳转</p><p><b><strong>游戏指导杰出成就奖</strong></b></p><p>死亡循环</p><p>邪恶冥刻</p><p>双人成行</p><p>瑞奇与叮当 时空跳转</p><p>The Artful Escape</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
