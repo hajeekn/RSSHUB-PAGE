@@ -8,7 +8,7 @@ categories:
 headimg: 'https://img.3dmgame.com/uploads/images/news/20220115/1642209046_640189.jpg'
 author: 3DMGame
 comments: false
-date: Sat, 15 Jan 2022 01:13:00 GMT
+date: Sat, 15 Jan 2022 01:28:00 GMT
 thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220115/1642209046_640189.jpg'
 ---
 
@@ -21,7 +21,7 @@ Informer采访时表示，PlayStation游戏登陆PC平台的热潮始于索尼�
 <img src="https://img.3dmgame.com/uploads/images/news/20220115/1642209046_640189.jpg" alt="PS独占游戏《战神4》登陆PC原因曝光 PC版开发了两年" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-Barlog表示：“所有工作室都认为(让PS游戏登陆PC)是一个非常好的想法，我们应该对此进行研究。”“最终它到达了一个临界点，当我们往意见箱里投了许多建议时，高层说我已经听腻了，好吧，我们就这么做吧！”
+Barlog表示：“我认为这是工作室集体的意见，他们都认为(让PS游戏登陆PC)是一个非常好的想法，我们应该对此进行研究。”“最终它到达了一个临界点，当我们往意见箱里投了许多建议时，高层说我已经听腻了，好吧，我们就这么做吧！”
 </p>
 <p style="text-indent:2em;">
 2020年3月索尼宣布PS独占游戏《地平线：黎明时分》将登陆PC平台，PlayStation游戏登陆PC平台的热潮来临。在索尼宣布其第一个PC计划时，《<a target="_blank" href="https://www.3dmgame.com/games/godofwar4/">战神4</a>》移植到PC平台的工作早已开启。据高级技术经理Matt 
