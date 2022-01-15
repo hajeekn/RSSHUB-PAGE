@@ -1,0 +1,19 @@
+
+---
+title: 'Factors affecting learning'
+categories: 
+ - 学习
+ - Mind42
+ - 分类
+headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=62011eb0-4fb1-4146-bc7a-b7fcd3a62eec&size=gallery'
+author: Mind42
+comments: false
+date: 2022-01-15 03:25:24
+thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=62011eb0-4fb1-4146-bc7a-b7fcd3a62eec&size=gallery'
+---
+
+<div>   
+<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=62011eb0-4fb1-4146-bc7a-b7fcd3a62eec&size=gallery" referrerpolicy="no-referrer"><p>
+                                    </p>  
+</div>
+            
