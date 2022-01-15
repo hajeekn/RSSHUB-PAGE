@@ -5,11 +5,11 @@ categories:
  - 博客
  - 每日安全
  - 推送
-headimg: 'https://picsum.photos/400/300?random=4276'
+headimg: 'https://picsum.photos/400/300?random=760'
 author: 每日安全
 comments: false
-date: 2022-01-15 10:25:21
-thumbnail: 'https://picsum.photos/400/300?random=4276'
+date: 2022-01-15 11:18:55
+thumbnail: 'https://picsum.photos/400/300?random=760'
 ---
 
 <div>   
@@ -20,7 +20,7 @@ thumbnail: 'https://picsum.photos/400/300?random=4276'
 Jett
 </a>
 <span class="text-muted"><small>• 1 day ago</small></span>
- </cite>
+</cite>
   
 </div>
             
