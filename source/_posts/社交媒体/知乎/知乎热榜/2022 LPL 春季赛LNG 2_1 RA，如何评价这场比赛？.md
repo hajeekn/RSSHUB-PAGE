@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=9840'
+headimg: 'https://pic2.zhimg.com/v2-42e7cbda76482df851e328248d9c7e85_1440w.jpg'
 author: 知乎
 comments: false
-date: Sat, 15 Jan 2022 15:04:25 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9840'
+date: Sat, 15 Jan 2022 15:53:40 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-42e7cbda76482df851e328248d9c7e85_1440w.jpg'
 ---
 
 <div>   
-樱花Sama的回答<br><br><p data-pid="xm-ZsEvb">真的忍不住了，看了好两天，什么垃圾悬赏点机制，比赛不是这样打的！翻盘局更不是这样打的！我个人宣布，悬赏点是英雄联盟史上最垃圾的设计，没有之一！</p>  
+匿名用户的回答<br><br><p></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-42e7cbda76482df851e328248d9c7e85_1440w.jpg" data-rawwidth="1463" data-rawheight="1080" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-42e7cbda76482df851e328248d9c7e85_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-42e7cbda76482df851e328248d9c7e85_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
 </div>
             
