@@ -8,7 +8,7 @@ categories:
 headimg: 'https://static.goodrain.com/wechat/locust/install-locust.png'
 author: Dockone
 comments: false
-date: 2022-01-19 15:21:58
+date: 2022-01-20 01:26:05
 thumbnail: 'https://static.goodrain.com/wechat/locust/install-locust.png'
 ---
 
