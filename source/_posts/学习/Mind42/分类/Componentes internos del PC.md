@@ -1,0 +1,19 @@
+
+---
+title: 'Componentes internos del PC'
+categories: 
+ - 学习
+ - Mind42
+ - 分类
+headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=3ca32b7e-ec7b-4074-bb53-f277db274071&size=gallery'
+author: Mind42
+comments: false
+date: 2022-01-21 09:21:05
+thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=3ca32b7e-ec7b-4074-bb53-f277db274071&size=gallery'
+---
+
+<div>   
+<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=3ca32b7e-ec7b-4074-bb53-f277db274071&size=gallery" referrerpolicy="no-referrer"><p>
+                                    </p>  
+</div>
+            
