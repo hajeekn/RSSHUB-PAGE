@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic4.zhimg.com/v2-963f3c11744839adbae85c4b13327fb7_720w.jpg'
+headimg: 'https://picsum.photos/400/300?random=2979'
 author: 知乎
 comments: false
-date: Sun, 23 Jan 2022 12:41:37 GMT
-thumbnail: 'https://pic4.zhimg.com/v2-963f3c11744839adbae85c4b13327fb7_720w.jpg'
+date: Sun, 23 Jan 2022 11:06:55 GMT
+thumbnail: 'https://picsum.photos/400/300?random=2979'
 ---
 
 <div>   
-两老儿辩日的回答<br><br><p data-pid="kkRm0L5o">兄弟们有没有发现一个小细节，最近这两场，RNG赢了之后上台鞠躬的时候，阿兵站的离另外四个人越来越近了。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-963f3c11744839adbae85c4b13327fb7_720w.jpg" data-rawwidth="193" data-rawheight="193" data-size="normal" class="content_image" referrerpolicy="no-referrer"></figure><p data-pid="xdqUeG7g">等什么时候阿兵开始和他们乱摸了，那个时候大家就可以对这支RNG稍微放心一点了，嘻嘻嘻！！！</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-c307f92203175bf441b144c7fbf6351a_1440w.jpg" data-rawwidth="1620" data-rawheight="1080" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-f08b86a70ca64e1acd827762123e18bf_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-c307f92203175bf441b144c7fbf6351a_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
+刃鸣的回答<br><br><p data-pid="TirYF2ph">老有人说这不是电竞春晚了，没年味了，</p><p data-pid="X4kCZ1OL">我寻思这没毛病啊，说的就跟春晚有年味似的，</p><p data-pid="bJ4EslkG">这明跟小虎，不就蔡明和冯巩吗？</p><p data-pid="JXO1_aQu">年年到场嘛，虽然水平有高有低，</p><p data-pid="LvprBTRj">但到头你也不得不说，这确实是俩德艺双馨的艺术家，也得亏他们，春晚多少有点看头，</p><p data-pid="PrCqUjd-">Gala他们嘛，也还不错，差不多就春晚的开心麻花嘛，</p><p data-pid="ju8-roz7">我看这扎着麻花辫的金克斯，玩得就很开心嘛，</p><p data-pid="28mWbPja">iG那几个嘛，就像刚出道的几个年轻演员，粉丝虽然不少（当然估计也差不多没了），但多少有点稚嫩，演得，啊不，打得多少不太让人满意，</p><p data-pid="445YTNng">即使有一两有点灵气的，像xun啊，也没法把这尬剧演出花来，</p><p data-pid="e5cGTuEQ">于是乎，这春晚就这么潦草地结束了，那你说我难过不，倒也不难过，换台看呗，</p><p data-pid="T6XNbJv9">我看肖央，啊不rookie，这台就挺不错</p>  
 </div>
             
