@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/design-systems-revolution-how-to-adapt/'
 author: Inside Design
 comments: false
-date: 2022-01-25 14:23:06
+date: 2022-01-25 15:22:02
 thumbnail: 'https://www.invisionapp.com/inside-design/design-systems-revolution-how-to-adapt/'
 ---
 
