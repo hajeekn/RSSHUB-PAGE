@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/visual-collaboration-guide/'
 author: Inside Design
 comments: false
-date: 2022-01-29 03:20:57
+date: 2022-01-29 04:27:06
 thumbnail: 'https://www.invisionapp.com/inside-design/visual-collaboration-guide/'
 ---
 
