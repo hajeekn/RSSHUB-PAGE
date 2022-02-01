@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.kuai.media/news/2022/02/01/static/image/kuai/external-link.gif'
 author: 快媒体
 comments: false
-date: 2022-02-01 05:20:00
+date: 2022-02-01 06:25:19
 thumbnail: 'https://www.kuai.media/news/2022/02/01/static/image/kuai/external-link.gif'
 ---
 
