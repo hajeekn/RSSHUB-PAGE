@@ -1,0 +1,18 @@
+
+---
+title: '微软 Surface Duo 双屏手机成功启动 Win11 ARM64'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202202/61f9ede98e9f09791c71be6c_1024.jpg'
+author: ZAKER
+comments: false
+date: Tue, 01 Feb 2022 19:42:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202202/61f9ede98e9f09791c71be6c_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 2 月 2 日消息，近期，微软才为 Surface Duo 初代带来了安卓 11 大版本的更新升级，不过微软的 Surface Duo 双屏手机原本是要运行 Windows 10X 的，直到微软放弃了这个项目，转而使用安卓系统。</p><p>主要的 LumiaWoA 项目（可将 Windows 10 移植到微软的 Lumia 950XL 手机上）黑客开发者 Gustave Monce 此前设法拿到了一台微软 Surface Duo 安卓双屏手机，研究 Windows 11 ARM 的移植工作。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202202/61f9ede98e9f09791c71be6c_1024.jpg" data-height="923" data-width="1199" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202202/61f9ede98e9f09791c71be6c_1024.jpg" referrerpolicy="no-referrer"></div></div>现在项目取得了新的进展，微软 Surface Duo 成功启动 Windows 11 ARM64 系统。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202202/61f9ede98e9f09791c71be6d_1024.jpg" data-height="1157" data-width="1200" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202202/61f9ede98e9f09791c71be6d_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202202/61f9edea8e9f09791c71be6e_1024.jpg" data-height="1280" data-width="720" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202202/61f9edea8e9f09791c71be6e_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202202/61f9edea8e9f09791c71be6f_1024.jpg" data-height="253" data-width="897" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202202/61f9edea8e9f09791c71be6f_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202202/61f9edea8e9f09791c71be70_1024.jpg" data-height="656" data-width="1196" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202202/61f9edea8e9f09791c71be70_1024.jpg" referrerpolicy="no-referrer"></div></div>IT 之家获悉，微软官方此前早已经对 Windows 10 Mobile 停止支持，不过在 WoA 项目开发者的努力下，仍然会有开发者去为 Lumia 旧机型和新安卓机型刷入新系统。<p></p><p>由于微软提供了 ARM 设备兼容的 Windows 10 版本，一群独立开发人员在过去几年里一直在维护一个非官方的 Windows on ARM 项目，这就是 WOA。现在微软发布了 Windows 11 ARM 版本，又有新的系统可以尝试了。</p><p>从 2019 年开始，第三方开发者集合的 Lumia 手机刷 Windows 10 ARM（WOA）项目也已经在 GitHub 上线，包含了所有有关 LumiaWOA 的项目。</p><p></p><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres2.myzaker.com/202112/61b806ba8e9f096d016e96d3_1024.jpg" data-height="595" data-width="1440" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202112/61b806ba8e9f096d016e96d3_1024.jpg" referrerpolicy="no-referrer"></div></div>https://github.com/WOA-Project<p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
