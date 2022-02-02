@@ -5,18 +5,18 @@ categories:
  - 博客
  - 每日安全
  - 推送
-headimg: 'https://picsum.photos/400/300?random=9219'
+headimg: 'https://picsum.photos/400/300?random=7849'
 author: 每日安全
 comments: false
-date: 2022-02-02 04:28:17
-thumbnail: 'https://picsum.photos/400/300?random=9219'
+date: 2022-02-02 05:19:23
+thumbnail: 'https://picsum.photos/400/300?random=7849'
 ---
 
 <div>   
 <q>对 JSON Web Token (JWT) 的攻击方法总结.</q>
 –
 <cite>
- <a class="text-muted" href="https://sec.today/user/8eb60fcc-f278-42e6-a76f-46a845ee9865/pushes/">
+<a class="text-muted" href="https://sec.today/user/8eb60fcc-f278-42e6-a76f-46a845ee9865/pushes/">
 lanying37
 </a>
 <span class="text-muted"><small>• 5 days ago</small></span>
