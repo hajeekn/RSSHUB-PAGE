@@ -8,7 +8,7 @@ categories:
 headimg: 'https://static.oschina.net/uploads/space/2022/0204/085519_8USU_4937141.png'
 author: 开源中国
 comments: false
-date: Fri, 04 Feb 2022 00:57:00 GMT
+date: Fri, 04 Feb 2022 08:57:00 GMT
 thumbnail: 'https://static.oschina.net/uploads/space/2022/0204/085519_8USU_4937141.png'
 ---
 
@@ -25,7 +25,7 @@ thumbnail: 'https://static.oschina.net/uploads/space/2022/0204/085519_8USU_49371
 <p>这个版本还包括一个更快的类型流分析的实现。在官方的基准测试中，Flutter 应用程序的总体构建时间下降了~10%。</p> 
 <h3>iOS 更新</h3> 
 <p>除了性能改进，Flutter 2.10 还增加了一些特定平台的功能和改进。一个新的增强功能是在 iOS 中提供更流畅的键盘动画，这将自动提供给你的应用程序，开发者不需要做任何事情。</p> 
-<p>还改善了 iOS 的相机插件稳定性，修复了一些情况下产生的崩溃问题。最后，64 位 iOS 架构得到了一个新的功能，以减少内存的使用：<strong><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fflutter%2Fengine%2Fpull%2F30077" target="_blank">compressed</a> <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fflutter%2Fengine%2Fpull%2F30333" target="_blank">pointers</a></strong>。</p> 
+<p>该版本还改善了 iOS 的相机插件稳定性，修复了一些情况下产生的崩溃问题。最后，64 位 iOS 架构得到了一个新的功能，以减少内存的使用：<strong><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fflutter%2Fengine%2Fpull%2F30077" target="_blank">compressed</a> <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fflutter%2Fengine%2Fpull%2F30333" target="_blank">pointers</a></strong>。</p> 
 <h3>Android 更新</h3> 
 <p>这个版本也包含了一些针对 Android 的改进。默认情况下，当创建一个新的应用程序时，Flutter 默认支持最新的 Android 版本，即 Android 12。此外在这个版本中，已经自动启用了 multidex 支持。</p> 
 <p>Flutter 工具现在会对常见的问题给出解决步骤。例如，如果你在你的应用程序中添加了一个插件，需要你升级支持的 Android SDK 版本，那么现在会在日志中看到一个 "Flutter Fix" 的建议。</p> 
