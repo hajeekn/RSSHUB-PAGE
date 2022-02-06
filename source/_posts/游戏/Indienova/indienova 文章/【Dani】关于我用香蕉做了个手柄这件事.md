@@ -5,11 +5,11 @@ categories:
  - 游戏
  - Indienova
  - indienova 文章
-headimg: 'https://picsum.photos/400/300?random=507'
+headimg: 'https://picsum.photos/400/300?random=2271'
 author: Indienova
 comments: false
-date: 2022-02-06 10:22:16
-thumbnail: 'https://picsum.photos/400/300?random=507'
+date: 2022-02-06 11:17:16
+thumbnail: 'https://picsum.photos/400/300?random=2271'
 ---
 
 <div>   
