@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/decision-tree-template/'
 author: Inside Design
 comments: false
-date: 2022-02-14 07:20:44
+date: 2022-02-14 08:26:06
 thumbnail: 'https://www.invisionapp.com/inside-design/decision-tree-template/'
 ---
 
