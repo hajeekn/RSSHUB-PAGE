@@ -5,18 +5,18 @@ categories:
  - 博客
  - Paul Graham 博客
  - Essays
-headimg: 'https://picsum.photos/400/300?random=1332'
+headimg: 'https://picsum.photos/400/300?random=9146'
 author: Paul Graham 博客
 comments: false
-date: 2022-02-13 15:21:14
-thumbnail: 'https://picsum.photos/400/300?random=1332'
+date: 2022-02-14 01:12:33
+thumbnail: 'https://picsum.photos/400/300?random=9146'
 ---
 
 <div>   
 February 2022<br><br>Writing about something, even something you know well, usually shows
 you that you didn't know it as well as you thought. Putting ideas
 into words is a severe test. The first words you choose are usually
-wrong; you have to rewrite sentences over and over if you want to
+wrong; you have to rewrite sentences over and over <!-- if you want --> to
 get them exactly right. And your ideas won't just be imprecise, but
 incomplete too. Half the ideas that end up in an essay will be ones
 you thought of while you were writing it. Indeed, that's why I write
