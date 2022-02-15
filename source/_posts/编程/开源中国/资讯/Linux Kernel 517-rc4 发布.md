@@ -16,7 +16,7 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-50035aaac6f1dc593149761bad87eb5
 <div class="content">
                                                                                             <p>Linux Kernel 5.17 发布了第四个 RC 版本。新版本发布时正逢 2022 超级碗举行，因此 Linus 也把内核代号从感恩节时使用的"Gobble Gobble"修改为了"Superb Owl"。</p> 
 <blockquote> 
- <p>Linus 一年四季都会根据季节、天气条件或其他特殊事件为内核进行有趣的命名。</p> 
+ <p>Linus 一年四季都会根据季节、天气条件或其他特殊事件为内核版本进行有趣的命名。</p> 
 </blockquote> 
 <p><img alt src="https://oscimg.oschina.net/oscnet/up-50035aaac6f1dc593149761bad87eb505c7.png" referrerpolicy="no-referrer"></p> 
 <p>Linus 在公告写道：</p> 
