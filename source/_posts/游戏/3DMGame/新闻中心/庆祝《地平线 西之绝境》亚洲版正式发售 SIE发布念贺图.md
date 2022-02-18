@@ -26,16 +26,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220218/1645161032_6037
 <img src="https://img.3dmgame.com/uploads/images/news/20220218/1645161032_603732.png" alt="庆祝《地平线 西之绝境》亚洲版正式发售 SIE发布念贺图" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220218/1645161040_420427.png" alt="庆祝《地平线 西之绝境》亚洲版正式发售 SIE发布念贺图" referrerpolicy="no-referrer"> 
-</p>
-<p style="text-indent:2em;">
-<strong>门小磊（中国香港）</strong> 
-</p>
-<p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220218/1645161052_454751.png" alt="庆祝《地平线 西之绝境》亚洲版正式发售 SIE发布念贺图" referrerpolicy="no-referrer"> 
-</p>
-<p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220218/1645161058_473715.png" alt="庆祝《地平线 西之绝境》亚洲版正式发售 SIE发布念贺图" referrerpolicy="no-referrer"> 
+<img src="https://img.3dmgame.com/uploads/images/news/20220218/1645161040_420427.png" alt="庆祝《地平线 西之绝境》亚洲版正式发售 SIE发布念贺图" referrerpolicy="no-referrer">
 </p>
 <p style="text-indent:2em;">
 <strong>Ann Maulina（印度尼西亚）</strong> 
