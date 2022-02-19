@@ -17,7 +17,6 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202202
 <p>
 【日影】02/18：吉岡里帆及磯村勇斗參演《xxxHOLiC》，當中吉岡里帆演女郎蜘蛛，操縱妖怪襲擊四月一日君尋（神木隆之介），另一方面磯村勇斗演紅蜘蛛，是電影版的原創角色，十分崇拜女郎蜘蛛並成為她的手下。2人都是首次參與蜷川實花導演的作品。</p>
 <p align="center"><img src="https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202202/20220218-1a.jpg" referrerpolicy="no-referrer"></p>
-
 <p>吉岡里帆表示她是《庫洛魔法使》世代的人，對於得到邀請演出 CLAMP 的作品感到驚訝又光榮。蜷川實花及《xxxHOLiC》的世界觀有著非常漂亮的影像，讓她興趣不已。女郎蜘蛛是電影版故事的關鍵，是個非常性感妖豔又殘酷的惡女。性感場面相當難演，她下了很多的功夫也學習到很多。</p>
 <p align="center"><img src="https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202202/20220218-1b.jpg" referrerpolicy="no-referrer"></p>
 <p>磯村勇斗則說紅蜘蛛被女郎蜘蛛的性感言行舉止玩弄於股掌之間，並對此感到興奮，就是有點變態，雖然演出上相當頗困難，但也是其魅力所在。《xxxHOLiC》4月29日公映。</p>
