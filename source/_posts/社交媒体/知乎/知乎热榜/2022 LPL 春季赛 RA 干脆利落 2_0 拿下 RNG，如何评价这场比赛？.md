@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic3.zhimg.com/v2-8ad68cc62d7fc55dd05f2a94788e5069_1440w.jpg'
+headimg: 'https://picsum.photos/400/300?random=2552'
 author: 知乎
 comments: false
-date: Tue, 22 Feb 2022 12:01:38 GMT
-thumbnail: 'https://pic3.zhimg.com/v2-8ad68cc62d7fc55dd05f2a94788e5069_1440w.jpg'
+date: Tue, 22 Feb 2022 10:42:54 GMT
+thumbnail: 'https://picsum.photos/400/300?random=2552'
 ---
 
 <div>   
-两老儿辩日的回答<br><br><p data-pid="Om1wuVuI">RNG今天这个状态啊，我只想说“RNM，退钱”</p><p data-pid="9oMe4Rjj">他们是不是以为赢了LNG有免喷权？？</p><p data-pid="N7bMe6Qi">阿BIN，摆！！</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-8ad68cc62d7fc55dd05f2a94788e5069_1440w.jpg" data-rawwidth="800" data-rawheight="360" data-size="normal" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-8ad68cc62d7fc55dd05f2a94788e5069_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="nbhVMiF4">小MING，寄！！</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-733ff6ce6439a30bc91b4b74b1d44a38_1440w.jpg" data-rawwidth="800" data-rawheight="360" data-size="normal" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-733ff6ce6439a30bc91b4b74b1d44a38_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="ocbsy8OQ">小WEI，又摆又寄！！</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-6731ba75b4d6bedba5d7e9fb7dea74d1_1440w.jpg" data-rawwidth="800" data-rawheight="360" data-size="normal" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-6731ba75b4d6bedba5d7e9fb7dea74d1_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="165B8K2m">RNG啊RNG，不是不让你输</p><p data-pid="YBlLNkRa">但是你输的这么丑陋，考虑过LNG和粉丝的感受吗？</p>  
+乖悟的回答<br><br><p data-pid="VlAfIgxo">RNG心系乌克兰局势？</p><p data-pid="W9SgPk96">着急回家看新闻联播？</p><p data-pid="5SwYBn3T">你着急也不能这样玩吧？</p><p data-pid="FBrtjulv">把把选个飞机厄斐琉斯想要十五分钟小龙决胜负？</p>  
 </div>
             
