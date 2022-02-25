@@ -35,10 +35,10 @@ thumbnail: 'https://i.guancha.cn/news/origin/2022/02/25/20220225110613482.png'
 如果以国别车系进行区分，以通用、福特为首的美系SUV增速最快，达到8.4%；以大众和宝马、奔驰为首的德系同比微增0.1%；以“两田一产”为首的日系同比下滑17.8%；市占率最高的自主SUV同样保持正向发展，同比增长达2.3%。
 </p>
 <p align="center">
-<img src="https://i.guancha.cn/news/origin/2022/02/25/20220225121456449.png" title="点击查看大图" class="bigimg" width="530" referrerpolicy="no-referrer">
+<img src="https://i.guancha.cn/news/origin/2022/02/25/20220225121456449.png" title="点击查看大图" class="bigimg" width="530" referrerpolicy="no-referrer"> 
 </p>
 <p>
-<strong>主流市场需求多元化</strong>
+<strong>主流市场需求多元化</strong> 
 </p>
 <p>
 具体来看，小型SUV是整个SUV市场中可替代性最强的细分部分。排名前列的本田缤智/XR-V兄弟双车月销在1.7万辆，除此之外，仅有吉利缤越和大众探歌两款月销在1万辆以上。其余车型多数在7000辆以下。
@@ -47,7 +47,7 @@ thumbnail: 'https://i.guancha.cn/news/origin/2022/02/25/20220225110613482.png'
 近年来在中国车市的电气化进程中，自主品牌的崛起、紧凑型车型的价格下探，以及微小型电动车的高速增长，均加快了其对小型SUV的替代效应。
 </p>
 <p align="center">
-<img src="https://i.guancha.cn/news/origin/2022/02/25/20220225122221739.png" title="点击查看大图" class="bigimg" width="530" referrerpolicy="no-referrer">
+<img src="https://i.guancha.cn/news/origin/2022/02/25/20220225122221739.png" title="点击查看大图" class="bigimg" width="530" referrerpolicy="no-referrer"> 
 </p>
 <p>
 紧凑型SUV依然是产品最为集中，竞争最为激烈的市场。在产品力持续下滑的背景下，哈弗H6月销仅有3.56万辆，艰难维持着榜首位置，但与身后的长安CS75已相差无几。不过，长安CS75本身销量也和H6一样呈下降趋势，降幅均在20%以上。
@@ -56,7 +56,7 @@ thumbnail: 'https://i.guancha.cn/news/origin/2022/02/25/20220225110613482.png'
 CS75的滑坡除产品周期因素外，也与自家CS55车型的暴增有关，是长安SUV相较长城的一大利好。自去年9月全新CS55上市以来，长安在主流SUV市场同时拥有两款具备竞争力的产品。反观长城，哈弗品牌SUV的销量下滑较为普遍，除H6外、F7、M6等车型各出现不同程度下滑，品牌、产品转型之痛仍在持续。
 </p>
 <p align="center">
-<img src="https://i.guancha.cn/news/origin/2022/02/25/20220225122605849.png" title="点击查看大图" class="bigimg" width="530" referrerpolicy="no-referrer">
+<img src="https://i.guancha.cn/news/origin/2022/02/25/20220225122605849.png" title="点击查看大图" class="bigimg" width="530" referrerpolicy="no-referrer"> 
 </p>
 <p>
 与“两长”相比，作为自主三强之一的吉利汽车，其核心SUV产品正处于迭代阶段。基于CMA架构的星越L月销已超过1.1万辆，正逐渐实现对旧有车型博越的替代作用，后者月销；新兴的比亚迪旗下拳头产品——宋月销突破2.2万辆，同比增长近50%，正向一线品牌发起持续冲击，但其中大部分车型均为电动和混动产品，燃油版宋月销已不足2000辆。
@@ -68,7 +68,7 @@ CS75的滑坡除产品周期因素外，也与自家CS55车型的暴增有关，
 同时值得一提的是，1月销量破万的紧凑型SUV中还出现了诸如五菱星辰、坦克300等上市一年左右的全新车型。尽管同属紧凑型SUV，但它们分别对应不同的细分市场，反映出中国消费者之于SUV产品的多元化需求。
 </p>
 <p align="center">
-<img src="https://i.guancha.cn/news/origin/2022/02/25/20220225122726850.png" title="点击查看大图" class="bigimg" width="530" referrerpolicy="no-referrer">
+<img src="https://i.guancha.cn/news/origin/2022/02/25/20220225122726850.png" title="点击查看大图" class="bigimg" width="530" referrerpolicy="no-referrer"> 
 </p>
 <p>
 由于细分市场前三为自主品牌所据，合资品牌方面排名前列的为两款日系传统优势车型。其中本田CR-V尽管较去年同期下滑2%，但仍取得2.5万辆以上销量；日产方面尽管新款奇骏因搭载三缸机销量惨败不足2000辆，但却变向拔高了其兄弟车型逍客的市场表现，成为所有合资SUV中增速最高的一款。
@@ -80,7 +80,7 @@ CS75的滑坡除产品周期因素外，也与自家CS55车型的暴增有关，
 与自主和日系相比，在紧凑型这一主流市场中，前20名中已几乎看不到德系和美系的身影，仅有宝马X1一款豪华车型月销破万。
 </p>
 <p align="center">
-<img src="https://i.guancha.cn/news/origin/2022/02/25/20220225121358531.png" title="点击查看大图" class="bigimg" width="530" referrerpolicy="no-referrer">
+<img src="https://i.guancha.cn/news/origin/2022/02/25/20220225121358531.png" title="点击查看大图" class="bigimg" width="530" referrerpolicy="no-referrer"> 
 </p>
 <p>
 <strong>中高端品牌表现稳定</strong> 
@@ -89,7 +89,7 @@ CS75的滑坡除产品周期因素外，也与自家CS55车型的暴增有关，
 相较紧凑型SUV，中型SUV市场的头部仍由豪华品牌和合资品牌主流车型所占据。宝马X3延续去年中期改款以来的强势，1月以1.86万辆的销量居首，且较同期增长达34%；奔驰GLC以1.82万辆位居第三，三强中只有奥迪Q5下滑较为明显，但仍维持在1.3万辆左右。二线豪华品牌方面，沃尔沃XC60、凯迪拉克XT5等车型均在6500辆以上左右。
 </p>
 <p align="center">
-<img src="https://i.guancha.cn/news/origin/2022/02/25/20220225121331617.png" title="点击查看大图" class="bigimg" width="530" referrerpolicy="no-referrer">
+<img src="https://i.guancha.cn/news/origin/2022/02/25/20220225121331617.png" title="点击查看大图" class="bigimg" width="530" referrerpolicy="no-referrer"> 
 </p>
 <p>
 而在主流合资品牌中，上汽大众途观L以1.85万辆的成绩居首，同比大增162.1%，一改过去两年因A柱弯折导致整体风评低迷的影响。作为对比，一汽-大众探岳却因颗粒捕捉器问题导致风评大降，月销量只有途观L的一半。
@@ -101,7 +101,7 @@ CS75的滑坡除产品周期因素外，也与自家CS55车型的暴增有关，
 尽管中型和中大型SUV市场不是自主品牌的传统优势板块，但仍有奇瑞瑞虎8一款车型月销达1.6万辆以上，同比增长9.3%，同属奇瑞控股的捷途X70月销近8000辆，吉利豪越、广汽传祺GS8等其他自主品牌车型则在5000辆左右。
 </p>
 <p align="center">
-<img src="https://i.guancha.cn/news/origin/2022/02/25/20220225112645415.png" title="点击查看大图" class="bigimg" width="530" referrerpolicy="no-referrer">
+<img src="https://i.guancha.cn/news/origin/2022/02/25/20220225112645415.png" title="点击查看大图" class="bigimg" width="530" referrerpolicy="no-referrer"> 
 </p>
 <p>
 <strong>观察一下：</strong> 
@@ -127,8 +127,11 @@ CS75的滑坡除产品周期因素外，也与自家CS55车型的暴增有关，
 <p>
 此外，考虑到乌克兰局势加剧等因素，国际油价同时剧变，燃油车尤其是中大型SUV的用车成本或将在未来一段时间持续上升，届时新能源车的市场渗透率或将进一步扩大。
 </p>
+<p align="center">
+<img src="https://i.guancha.cn/news/origin/2022/02/25/20220225133703690.png" title="点击查看大图" class="bigimg" width="530" referrerpolicy="no-referrer">
+</p>
 <p>
-<strong>本文系观察者网独家稿件，未经授权，不得转载。</strong>
+<strong>本文系观察者网独家稿件，未经授权，不得转载。</strong> 
 </p>
   
 </div>
