@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic1.zhimg.com/v2-4f5ee4688b260a1bb326162a848ad4c8_1440w.jpg'
+headimg: 'https://pic1.zhimg.com/v2-96e171183532efd88bdcd3c5e0275a5d.jpg?source=382ee89a'
 author: 知乎
 comments: false
-date: Fri, 25 Feb 2022 09:15:42 GMT
-thumbnail: 'https://pic1.zhimg.com/v2-4f5ee4688b260a1bb326162a848ad4c8_1440w.jpg'
+date: Fri, 25 Feb 2022 07:39:07 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-96e171183532efd88bdcd3c5e0275a5d.jpg?source=382ee89a'
 ---
 
 <div>   
-十八的回答<br><br><p data-pid="J-y6bY1_">1.PS5上的帧率不如恶魂重制版。</p><p data-pid="UNdQ1GUv">2.恶兆太难，不少主播都破防了。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-4f5ee4688b260a1bb326162a848ad4c8_1440w.jpg" data-caption data-size="normal" data-rawwidth="724" data-rawheight="392" data-default-watermark-src="https://pic1.zhimg.com/v2-ccd4b316a5d2dbac5f9d378fe7d02250_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-4f5ee4688b260a1bb326162a848ad4c8_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="oOXAViys">3.BUG太多，启动不了，模型消失，手柄适配。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-67a78198fb81162451c6b4b2aa4aec8f_1440w.jpg" data-caption data-size="normal" data-rawwidth="757" data-rawheight="621" data-default-watermark-src="https://pic2.zhimg.com/v2-9cc32323538158852ed6c22d53b68fa4_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-67a78198fb81162451c6b4b2aa4aec8f_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="94Kf72Xi"><br></p><p data-pid="94Kf72Xi">4.魂系游戏不适合普通玩家。</p><p data-pid="PsMQWDXV">建议新入坑的玩家，先查攻略再玩。</p><p data-pid="eaBl3afw">个人建议法师流。</p><p><br></p><p data-pid="8AUsWfIu">评论区更精彩，欢迎各路大神来对线。</p>  
+凭笙的回答<br><br><p data-pid="GFXDotYs">泻药</p><p data-pid="_w71CGBi">3080ti+12700k，4k最高画质，偶尔掉帧，到魔法镇爆卡。</p><p data-pid="COohtnTm">但我没空评论，艾尔登还等着我觐见呢！</p><p><br></p><p data-pid="e15VE9WI">首日优化的确不咋地…平时小掉帧也就忍了，这山头不知道是不是能加载好几块地图，几次卡顿差点妹吓死我……</p><p data-pid="QkZMPhTh">不过不知道是不是我电脑的原因，我sifu也容易卡死，法环至少没逼我直接杀程序……</p><a class="video-box" href="http://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1480566690802601984" target="_blank" data-video-id data-video-playable="true" data-name data-poster="https://pic1.zhimg.com/v2-96e171183532efd88bdcd3c5e0275a5d.jpg?source=382ee89a" data-lens-id="1480566690802601984">              <img class="thumbnail" src="https://pic1.zhimg.com/v2-96e171183532efd88bdcd3c5e0275a5d.jpg?source=382ee89a" referrerpolicy="no-referrer">              <span class="content">                <span class="title"><span class="z-ico-extern-gray"><span class="z-ico-extern-blue"></span>                <span class="url"><span class="z-ico-video">https://www.zhihu.com/video/1480566690802601984</span>              </span>            </span></span></span></a>            <p></p>  
 </div>
             
