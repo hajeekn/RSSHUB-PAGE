@@ -67,6 +67,6 @@ thumbnail: 'https://img.36krcdn.com/20220226/v2_0f6259b9cbe24b51bd7fb8904e4861d5
 <p>孤独面店</p> 
 <p>“单飞”意味着更自由的业务方向和更多元的变现模式，对于国内这帮明星综艺PD来说，不奢求他们能在业务上赶超罗PD，如能在自立门户后在不同赛道领域产出优的内容，那对行业来说都是利好。</p> 
 <p><strong>END</strong> </p> 
-<p>本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号 <a target="_blank" rel="noopener noreferrer nofollow" href="http://mp.weixin.qq.com/s?__biz=MzI2MDI4NjQ3Mw==&mid=2247535513&idx=1&sn=e491b0234b11b73201ddaa27c4850d35&chksm=ea69faffdd1e73e9ddf9678b1782627aca4f33786a11f0b9cd021fd20c0b56542454d60d0018#rd">“犀牛娱乐”（ID：piaofangtoushijing）</a>，作者：犀牛娱乐编辑部，36氪经授权发布。</p>  
+<p>本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号 <a target="_blank" rel="noopener noreferrer" href="http://mp.weixin.qq.com/s?__biz=MzI2MDI4NjQ3Mw==&mid=2247535513&idx=1&sn=e491b0234b11b73201ddaa27c4850d35&chksm=ea69faffdd1e73e9ddf9678b1782627aca4f33786a11f0b9cd021fd20c0b56542454d60d0018#rd">“犀牛娱乐”（ID：piaofangtoushijing）</a>，作者：犀牛娱乐编辑部，36氪经授权发布。</p>  
 </div>
             

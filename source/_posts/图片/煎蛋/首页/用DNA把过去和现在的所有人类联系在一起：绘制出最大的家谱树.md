@@ -5,15 +5,15 @@ categories:
  - 图片
  - 煎蛋
  - 首页
-headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/03/642668d11cb1e680b4ef91f40470e223.jpg!custom'
+headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/551dbe8547f5e93e35e90ab90883c38f.jpg!custom'
 author: 煎蛋
 comments: false
 date: Sat, 26 Feb 2022 04:18:00 GMT
-thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/03/642668d11cb1e680b4ef91f40470e223.jpg!custom'
+thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/551dbe8547f5e93e35e90ab90883c38f.jpg!custom'
 ---
 
 <div>   
-<blockquote><p>未来的最终形态：每个人都可以借助基因节点，向上追溯共同祖先，进而了解古人是生活在何时何地</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/03/642668d11cb1e680b4ef91f40470e223.jpg!custom" referrerpolicy="no-referrer"><p>2000年6月，两支相互竞争的团队握手言和，共同达成了生物学里程碑的成就——人类基因组草图。</p>
+<blockquote><p>未来的最终形态：每个人都可以借助基因节点，向上追溯共同祖先，进而了解古人是生活在何时何地</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/551dbe8547f5e93e35e90ab90883c38f.jpg!custom" referrerpolicy="no-referrer"><p>2000年6月，两支相互竞争的团队握手言和，共同达成了生物学里程碑的成就——人类基因组草图。</p>
 <p>人类基因组草图从我们染色体的不完整图谱开始，后来发展成为来自全球各个角落的大量个性化序列，并且在许多情况下可以追溯到很久以前。</p>
 <p>在DNA海洋中的某处，有一个关于我们共同人性的故事。</p>
 <p>不幸的是，阅读它说起来容易做起来难。不仅海量的数据是一个问题，样本的细微差异、不同的格式以及对不同类型错误进行优先排序的分析技术，都对统一诠释造成了障碍。</p>
