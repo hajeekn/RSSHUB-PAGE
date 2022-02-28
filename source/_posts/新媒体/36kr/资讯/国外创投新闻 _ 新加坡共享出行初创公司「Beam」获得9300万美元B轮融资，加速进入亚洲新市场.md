@@ -13,7 +13,7 @@ thumbnail: 'https://img.36krcdn.com/20220228/v2_bec1dbe549f949fbbf358625c7b9c97b
 ---
 
 <div>   
-<p>据<a target="_blank" rel="noopener noreferrer nofollow" href="https://techcrunch.com/2022/02/24/singapore-based-micromobility-startup-beam-secures-93m-series-b-enters-new-markets/">TechCrunch</a>报道，新加坡共享微型交通公司「Beam」近日宣布在B轮融资中筹集了9300万美元，以加速进入亚洲更多国家。本轮融资由亚赋资本（Affirma Capital）领投，红杉资本印度公司、Hana Ventures、ICT Capital、EDB Investment（EDBI）、AC Ventures、RTP Global和Momentum Venture Capital参与。目前公司融资总额达到1.35亿美元，估值达上亿级。</p> 
+<p>据<a target="_blank" rel="noopener noreferrer" href="https://techcrunch.com/2022/02/24/singapore-based-micromobility-startup-beam-secures-93m-series-b-enters-new-markets/">TechCrunch</a>报道，新加坡共享微型交通公司「Beam」近日宣布在B轮融资中筹集了9300万美元，以加速进入亚洲更多国家。本轮融资由亚赋资本（Affirma Capital）领投，红杉资本印度公司、Hana Ventures、ICT Capital、EDB Investment（EDBI）、AC Ventures、RTP Global和Momentum Venture Capital参与。目前公司融资总额达到1.35亿美元，估值达上亿级。</p> 
 <p>Beam成立于2018年，目前在马来西亚、泰国、韩国、澳大利亚和新西兰的35个城市投放了电动滑板车和自行车，并计划扩展到日本、印度尼西亚、菲律宾、越南和土耳其等市场。</p> 
 <p>公司预计在今年下半年推出新的第五代Beam Saturn电动滑板车。公司首席执行官兼联合创始人Alan Jiang表示，这款车将配备Beam安全平台的最新版本（称为MARS），有利于保护行人，以及加强地方政府对电动车骑行停放地点的控制。</p> 
 <p class="image-wrapper"><img data-img-size-val="1335,614" src="https://img.36krcdn.com/20220228/v2_bec1dbe549f949fbbf358625c7b9c97b_img_png" referrerpolicy="no-referrer"></p> 
