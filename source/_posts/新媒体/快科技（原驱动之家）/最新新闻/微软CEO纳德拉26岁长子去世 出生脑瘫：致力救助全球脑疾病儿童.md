@@ -15,7 +15,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20220302/s_f3a5214ff99b4a0faf8cd2054b
 <div>   
 <p>周一，微软CEO纳德拉长子Zain Nadella去世，享年26岁。作为微软CEO，纳德拉是一个伟大的商业领导者，更是一名合格的父亲。</p>
 <p>2月28日，微软CEO纳德拉的儿子Zain永远离开了他。纳德拉有三个可爱的孩子，Zain Nadella便是长子，还有2个女儿，分别是Tara Nadella和Divya Nadella。</p>
-<p><strong>这三个孩子当中，Zain出生起便患有脑瘫，四肢瘫痪，在轮椅上度过一生。据外媒报道称，2021年，纳德拉向西雅图儿童医院捐了1500美元。用来支持该所医院的神经医学和心理保健的研究和发展。</strong></p>
+<p><strong>这三个孩子当中，Zain出生起便患有脑瘫，四肢瘫痪，在轮椅上度过一生。据外媒报道称，2021年，纳德拉向西雅图儿童医院捐了1500万美元，用来支持该所医院的神经医学和心理保健的研究和发展。</strong></p>
 <p>纳德拉和他的妻子在捐款之后表示，自己的儿子出生就有脑瘫这个病。没有西雅图儿童医院的专家诊疗团队和各种资源，他们的孩子情况可能会更糟糕。</p>
 <p>按照微软的说法，这笔捐款用来招募更多在该领域的专家，建立临床实验计划，进一步扩大在该组织的心理健康关切计划。同时还成立了Zain Nadella儿科神经科学基金会。</p>
 <p>纳德拉妻子Anu是Zain Nadella儿科神经科学基金会董事会的主席，还是神经科学运动计划委员会的联合主席。</p>
@@ -28,7 +28,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20220302/s_f3a5214ff99b4a0faf8cd2054b
 <p class="end"><img src="https://icons.mydrivers.com/news/end_article.png" referrerpolicy="no-referrer"></p> 
 <div style="overflow: hidden;font-size:14px;">
              
-          <p class="url"><span style="color:#666">责任编辑：雪花</span><a href="javascript:;" class="jiucuo" id="leftjiucuo">文章纠错</a></p>
+          <p class="url"><span style="color:#666">责任编辑：上方文Q</span><a href="javascript:;" class="jiucuo" id="leftjiucuo">文章纠错</a></p>
         </div>
         <div class="page_article" id="bnext">
  
