@@ -24,7 +24,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220302/1646188466_4867
 </iframe>
 </p>
 <p style="text-indent:2em;">
-《Republique》最早于2013年在苹果和安卓设备上推出，后来于2016年登陆Steam，在2018年进行了内容大规模更新。这款具有里程碑意义的新版本《Republique:周年版》首次将《Republique》带到了Switch和PS VR平台，并添加了全新的开发者评论轨道，揭示了关于游戏旋风般的开发过程的新秘密。《Republique:周年版》最初是与合作工作室Darkwind Media一起为PlayStation 4制作的，然后由Skymap Games将其移植到Switch和PS VR平台。
+《Republique》最早于2013年在苹果和安卓设备上推出，后来于2016年登陆Steam，在2018年进行了内容大规模更新。这款具有里程碑意义的新版本《Republique:周年版》首次将《Republique》带到了Switch和PS VR平台，并添加了全新的开发者评论板块，揭示了关于游戏开发过程的新秘密。《Republique:周年版》最初是与合作工作室Darkwind Media一起为PlayStation 4制作的，然后由Skymap Games将其移植到Switch和PS VR平台。
 </p>
 <p style="text-indent:2em;">
 《Republique》是一款惊心动魄的热门潜行冒险游戏，它探索了互联网时代政府监控的危险。玩家们接到来自Hope的电话，扮演一个被困在神秘极权主义国家里的女性，玩家们必须侵入这个国家精心设计的监控网络，引导她获得自由。
