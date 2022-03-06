@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/v7-product-updates-january-2022/'
 author: Inside Design
 comments: false
-date: 2022-03-06 12:34:45
+date: 2022-03-06 13:22:55
 thumbnail: 'https://www.invisionapp.com/inside-design/v7-product-updates-january-2022/'
 ---
 
