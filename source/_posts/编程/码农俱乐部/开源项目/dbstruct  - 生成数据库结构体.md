@@ -5,15 +5,15 @@ categories:
  - 编程
  - 码农俱乐部
  - 开源项目
-headimg: 'https://picsum.photos/400/300?random=7805'
+headimg: 'https://picsum.photos/400/300?random=2305'
 author: 码农俱乐部
 comments: false
-date: 2022-03-08 11:19:29
-thumbnail: 'https://picsum.photos/400/300?random=7805'
+date: 2022-03-08 12:38:10
+thumbnail: 'https://picsum.photos/400/300?random=2305'
 ---
 
 <div>   
-dbstruct 是一款将数据库表一键转换为 Golang Struct 的应用程序，支持自定义 Tag 和多种命名格式配置。
+dbstruct是一款将数据库表一键转换为Golang Struct的应用程序，支持自定义Tag和多种命名格式配置。
           
 </div>
             
