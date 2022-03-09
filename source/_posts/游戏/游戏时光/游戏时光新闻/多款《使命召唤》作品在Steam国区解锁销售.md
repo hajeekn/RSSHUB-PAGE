@@ -23,9 +23,7 @@ thumbnail: 'https://img01.vgtime.com/game/cover/2022/03/09/22030910381838_u524.j
 
                 
                 
-                    <div class="topicContent front_content sort_content">多款《使命召唤》游戏于今日在 Steam 国区解锁销售，包含有 2006 年至 2017 年的系列多款作品。
-
-</div>
+                    <div class="topicContent front_content sort_content">多款《使命召唤》游戏于今日在 Steam 国区解锁销售，包含有 2006 年至 2017 年的系列多款作品。</div>
                     <ul class="vg_short_img_box">
                         
                             <li><img alt="https://img01.vgtime.com/game/cover/2022/03/09/22030910381838_u524.jpg" src="https://img01.vgtime.com/game/cover/2022/03/09/22030910381838_u524.jpg?x-oss-process=image/resize,m_fill,h_480,w_480,limit_0" referrerpolicy="no-referrer"></li>
