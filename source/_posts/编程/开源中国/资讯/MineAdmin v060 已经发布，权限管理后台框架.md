@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=7074'
+headimg: 'https://picsum.photos/400/300?random=2571'
 author: 开源中国
 comments: false
 date: Wed, 09 Mar 2022 22:17:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7074'
+thumbnail: 'https://picsum.photos/400/300?random=2571'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p style="color:#40485b; margin-left:0em; margin-right:0em; text-align:start"><strong>变更</strong></p> 
+                                                                    
+                                                        <p style="color:#40485b; margin-left:0em; margin-right:0em; text-align:start"><strong>变更</strong></p> 
 <ul> 
  <li style="color: rgb(64, 72, 91); margin-left: 0em; margin-right: 0em; text-align: start;">[变更] 全面使用PHP8.0的原生注解特性</li> 
  <li style="color: rgb(64, 72, 91); margin-left: 0em; margin-right: 0em; text-align: start;">[变更] 更新SCUI一些新功能</li> 

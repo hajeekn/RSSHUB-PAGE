@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=675'
+headimg: 'https://picsum.photos/400/300?random=4272'
 author: 开源中国
 comments: false
 date: Wed, 09 Mar 2022 16:28:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=675'
+thumbnail: 'https://picsum.photos/400/300?random=4272'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>avue v2.9.0 已经发布，基于 Element 的前端框架</p> 
+                                                                    
+                                                        <p>avue v2.9.0 已经发布，基于 Element 的前端框架</p> 
 <p>此版本更新内容包括：</p> 
 <h2>v2.9.0</h2> 
 <p><code>2022-03-10</code></p> 
