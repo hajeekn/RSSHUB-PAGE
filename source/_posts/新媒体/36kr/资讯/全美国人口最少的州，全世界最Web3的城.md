@@ -15,8 +15,8 @@ thumbnail: 'https://img.36krcdn.com/20220310/v2_6d56f3b5f18041bb880ad0fb20287fa1
 <div>   
 <p>眼下，互联网世界、投资圈里最火的概念，恐怕就是Web3.0了，不少人已经把它当做下一个互联网时代。</p> 
 <p>但相当一部分人，并不了解它为何物。要解释起来，还得从前两个时代说起。</p> 
-<p><strong>Web1.0时代</strong>，信息在网站上主要以只读方式共享，比如当年的三大门户网站——<a class="project-link" data-id="418407" data-name="搜狐" data-logo="https://img.36krcdn.com/20210811/v2_9130693f3b924aeb892cc2d0d8bb318e_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/418407" target="_blank">搜狐</a>、新浪、<a class="project-link" data-id="30367" data-name="网易" data-logo="https://img.36krcdn.com/20210806/v2_cef2901dde7f474d9121c11fec2c841d_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/30367" target="_blank">网易</a>。他们提供信息，我们只管看就是了。</p> 
-<p><strong>后来到了Web2.0时代</strong>，我们不仅可以单方面吸收信息，还能够跟平台或者其他用户进行交互。这时期，大量互联网公司崛起，比如Facebook、亚马逊、<a class="project-link" data-id="24961" data-name="腾讯" data-logo="https://img.36krcdn.com/20201201/v2_016524a9a477434cb3584e1558f3257a_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/24961" target="_blank">腾讯</a>、阿里等等。</p> 
+<p><strong>Web1.0时代</strong>，信息在网站上主要以只读方式共享，比如当年的三大门户网站——搜狐、新浪、网易。他们提供信息，我们只管看就是了。</p> 
+<p><strong>后来到了Web2.0时代</strong>，我们不仅可以单方面吸收信息，还能够跟平台或者其他用户进行交互。这时期，大量互联网公司崛起，比如Facebook、亚马逊、腾讯、阿里等等。</p> 
 <p><strong>不过，巨头的崛起会带来新的问题，也就是隐私安全。</strong>中心化的巨头，几乎牢牢地掌控着我们的生活，个人几乎没有还手之力。当年的Facebook隐私泄露事件，就是一个典型。</p> 
 <p>万维网之父蒂姆·伯纳斯·李，接受采访时曾失望地表示：“互联网的精神应该是去中心化的，但一些公司已经把互联网当成了垄断联盟。”</p> 
 <p>于是，人们寄希望在<strong>Web3.0时代</strong>，有一个去中心化的体系，能让我们在没有第三方监督的情况下，点对点地进行交互。</p> 
@@ -46,7 +46,7 @@ thumbnail: 'https://img.36krcdn.com/20220310/v2_6d56f3b5f18041bb880ad0fb20287fa1
 <p>去年它对DAO进行立法后，很快就吸引来一大批组织。</p> 
 <p>比如CryptoFed DAO，被怀俄明州认定为全球第一家DAO有限责任公司，同时获得法定运营许可。</p> 
 <p>CryptoFed DAO方面对此回应称：</p> 
-<p>“怀俄明州是美国领先的数字资产管辖区，现在有了DAO法律，怀俄明州可以说是世界上最大的区块链管辖区。这意味着，创造一种真正的、被<a class="project-link" data-id="3969555" data-name="大众" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3969555" target="_blank">大众</a>接受的数字货币，现在是有可能实现的。”</p> 
+<p>“怀俄明州是美国领先的数字资产管辖区，现在有了DAO法律，怀俄明州可以说是世界上最大的区块链管辖区。这意味着，创造一种真正的、被大众接受的数字货币，现在是有可能实现的。”</p> 
 <p>今年2月，去中心化区块链项目ELYSIA，成为第一家在怀俄明州注册为DAO法人的亚洲区块链项目，同时也是全球第二家获得怀俄明州认可的DAO有限责任公司。</p> 
 <p>在这些纷至沓来的DAO组织中，笔者尤为关心CityDAO项目。</p> 
 <p>在怀俄明州宣布DAO在法律上等同于LLC的第二天，互联网停车项目AirGarage联合创始人之一Scott，宣布开始名为CityDAO的项目。</p> 
@@ -111,10 +111,10 @@ thumbnail: 'https://img.36krcdn.com/20220310/v2_6d56f3b5f18041bb880ad0fb20287fa1
 <p>1.怀俄明州如何成为美国的加密货币之都</p> 
 <p>2.怀俄明州想成为美国的加密货币之都</p> 
 <p>3.CityDAO：生于以太坊，困于怀俄明</p> 
-<p>4.CityDAO 第七轮 : <a class="project-link" data-id="79233" data-name="逐梦" data-logo="https://img.36krcdn.com/20210807/v2_ee4913e9071b41a0bcd978164f63526c_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/79233" target="_blank">逐梦</a>加密城市</p> 
+<p>4.CityDAO 第七轮 : 逐梦加密城市</p> 
 <p>5.web3.0 指的是什么？未来将有怎样的发展？</p> 
 <p>6.最激进的CityDAO，为何吸引V神进入社区关注？</p> 
 <p>7.他山之石：美国元宇宙监管现状及应对策略</p> 
-<p class="editor-note">本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号<a target="_blank" rel="noopener noreferrer nofollow" href="https://mp.weixin.qq.com/s/AkcmXo8NX5nzqlidlGngiQ">“硅兔赛跑”（ID:sv_race）</a>，作者：Eric，编辑：梓，36氪经授权发布。</p>  
+<p class="editor-note">本文来自微信公众号<a target="_blank" rel="noopener noreferrer nofollow" href="https://mp.weixin.qq.com/s/AkcmXo8NX5nzqlidlGngiQ">“硅兔赛跑”（ID:sv_race）</a>，作者：Eric，编辑：梓，36氪经授权发布。</p>  
 </div>
             
