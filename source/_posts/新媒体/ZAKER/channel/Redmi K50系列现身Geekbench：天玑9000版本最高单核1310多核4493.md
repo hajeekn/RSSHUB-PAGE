@@ -1,0 +1,18 @@
+
+---
+title: 'Redmi K50系列现身Geekbench：天玑9000版本最高单核1310多核4493'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202203/622bfe9b8e9f09393c1f2bfd_1024.jpg'
+author: ZAKER
+comments: false
+date: Fri, 11 Mar 2022 20:19:07 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202203/622bfe9b8e9f09393c1f2bfd_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 3 月 12 日消息，Redmi K50 旗舰系列发布会将于 3 月 17 日 19:00 召开。昨日，型号为 Xiaomi 22011211C 与 Xiaomi 22041211AC 的小米新机现身 Geekbench。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202203/622bfe9b8e9f09393c1f2bfd_1024.jpg" data-height="1558" data-width="1255" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202203/622bfe9b8e9f09393c1f2bfd_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202203/622bfe9b8e9f09393c1f2bfe_1024.jpg" data-height="863" data-width="1209" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202203/622bfe9b8e9f09393c1f2bfe_1024.jpg" referrerpolicy="no-referrer"></div></div>据数码博主 @数码闲聊站 爆料，这两款机型即为 K50 系列新机。其中，Xiaomi 22011211C 为天玑 9000 版本机型，当前最高单核跑分 1310，多核跑分 4493。<p></p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202203/622bfe9b8e9f09393c1f2bff_1024.jpg" data-height="438" data-width="922" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202203/622bfe9b8e9f09393c1f2bff_1024.jpg" referrerpolicy="no-referrer"></div></div>Xiaomi 22041211AC 则为天玑 8100 版本，当前最高单核跑分 932，多核跑分 3690。该博主表示，天玑 8100 版本应该没开性能模式，成绩一般。<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202203/622bfe9b8e9f09393c1f2c00_1024.jpg" data-height="576" data-width="1217" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202203/622bfe9b8e9f09393c1f2c00_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202203/622bfe9b8e9f09393c1f2c01_1024.jpg" data-height="1503" data-width="1260" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202203/622bfe9b8e9f09393c1f2c01_1024.jpg" referrerpolicy="no-referrer"></div></div>IT 之家了解到，联发科天玑 9000 于 2021 年第四季度发布，采用台积电 4nm 工艺 ＋ Armv9 架构组合，拥有 1 个 3.05GHz 的 Arm Cortex-X2 超大核、3 个 2.85GHz 的 Arm Cortex-A710 大核与 4 个 Arm Cortex-A510 小核。<p></p><p></p><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres2.myzaker.com/202202/62185d53b15ec07b7a6910ec_1024.jpg" data-height="689" data-width="1102" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202202/62185d53b15ec07b7a6910ec_1024.jpg" referrerpolicy="no-referrer"></div></div>联发科轻旗舰 5G 移动平台天玑 8100 则于 3 月 1 日发布，采用台积电 5nm 制程，CPU 部分包含 4 个 2.85GHz A78 核心 + 4 个 2.0GHz A55 核心，GPU 为 Mali-G610，采用自研 APU 580 架构。<p></p><p>作为对比，一款搭载骁龙 888 的机型单核跑分为 1129，多核跑分为 3538；搭载骁龙 8 Gen1 的机型单核跑分为 1273，多核跑分为 3809。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
