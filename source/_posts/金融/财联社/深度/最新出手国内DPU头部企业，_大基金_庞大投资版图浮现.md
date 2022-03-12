@@ -5,11 +5,11 @@ categories:
  - 金融
  - 财联社
  - 深度
-headimg: 'https://picsum.photos/400/300?random=5391'
+headimg: 'https://picsum.photos/400/300?random=1625'
 author: 财联社
 comments: false
 date: Sat, 12 Mar 2022 05:14:03 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5391'
+thumbnail: 'https://picsum.photos/400/300?random=1625'
 ---
 
 <div>   
