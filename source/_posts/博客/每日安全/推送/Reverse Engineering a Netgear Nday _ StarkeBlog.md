@@ -5,17 +5,17 @@ categories:
  - 博客
  - 每日安全
  - 推送
-headimg: 'https://picsum.photos/400/300?random=4247'
+headimg: 'https://picsum.photos/400/300?random=8553'
 author: 每日安全
 comments: false
-date: 2022-03-14 12:37:07
-thumbnail: 'https://picsum.photos/400/300?random=4247'
+date: 2022-03-14 13:26:25
+thumbnail: 'https://picsum.photos/400/300?random=8553'
 ---
 
 <div>   
 <q>Netgear 路由器 CVE-2021-34979 漏洞的分析</q>
 –
- <cite>
+<cite>
 <a class="text-muted" href="https://sec.today/user/8b825634-50dd-43e3-a401-88096c2f8709/pushes/">
 Jett
 </a>
