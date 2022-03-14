@@ -19,6 +19,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://kenshin.hk/blog/2022-01/res/t
 NTV土22｜逃亡醫生F｜5.9% > 7.0% (+1.1%)<br>
 TBS日21｜DCU｜13.4% > 14.6% (+1.2%)<br>
 NTV日22｜真犯人旗標｜8.9% > 12.4% (+3.5%) *結局，創新高</p>
+
 <p>NHK大河｜鎌倉殿的13人｜14.0% > 13.6% (-0.4%)<br>
 NHK晨間｜Come Come Everybody｜17.2% > 17.8% (+0.6%)</p>
 <hr>
