@@ -5,15 +5,15 @@ categories:
  - 金融
  - 财联社
  - 深度
-headimg: 'https://picsum.photos/400/300?random=2730'
+headimg: 'https://picsum.photos/400/300?random=2059'
 author: 财联社
 comments: false
 date: Sat, 19 Mar 2022 02:19:22 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2730'
+thumbnail: 'https://picsum.photos/400/300?random=2059'
 ---
 
 <div>   
-<div class="m-b-10"><p><strong>财联社（上海 编辑 胡家荣）</strong>自伦敦金属交易所(LME)重启镍期货交易以来，镍价走向备受市场关注，然而今日传来一则消息，或引发镍价格大幅波动。</p>
+<div class="m-b-10"><p><strong>财联社（上海 编辑 胡家荣）讯，</strong>自伦敦金属交易所(LME)重启镍期货交易以来，镍价走向备受市场关注，然而今日传来一则消息，或引发镍价格大幅波动。</p>
 <p>据相关媒体报道，高盛交易员给出的伦镍场外报价比伦敦金属交易所(LME)的报价低约32%，该行报价暗示其价格将进一步大幅下跌。</p>
 <p>据悉，高盛的镍价买卖双方报盘暗示，买盘报价为25000美元/吨，卖盘报价为37000美元/吨，而相较本周五收报36915美元/吨，比高盛买方报价高近32%以上。</p>
 <p>相关人士指出，高盛一直在提供大宗商品指数产品合约的交易，例如成份包括镍的S&P GSCI，其中包含镍的买卖报价，这意味这对镍价的走势产生影响。</p>
