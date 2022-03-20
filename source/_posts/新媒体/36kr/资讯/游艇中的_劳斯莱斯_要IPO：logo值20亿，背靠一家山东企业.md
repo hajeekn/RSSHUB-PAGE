@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 36kr
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=1879'
+headimg: 'https://picsum.photos/400/300?random=7295'
 author: 36kr
 comments: false
 date: Sun, 20 Mar 2022 03:00:46 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1879'
+thumbnail: 'https://picsum.photos/400/300?random=7295'
 ---
 
 <div>   
@@ -25,7 +25,7 @@ thumbnail: 'https://picsum.photos/400/300?random=1879'
   <p style="margin-left: 8px;margin-right: 8px;line-height: 1.75em;"><span style="font-size: 15px;letter-spacing: 1px;">营收方面，基本维持在6亿欧元以上。2018年-2020年及2021年前九个月，公司收益分别为6.3亿欧元、6.8亿欧元、6.4亿欧元及6.9亿欧元。其中，复合材料游艇和专门定制游艇合计销售收入占公司总营收的80%。而且法拉帝在这两个细分领域，市占率维持在10%-20%，属市场头部。</span></p> 
   <p style="margin-left: 8px;margin-right: 8px;line-height: 1.75em;"><span style="font-size: 15px;letter-spacing: 1px;">复合材料游艇，是标准化的量产产品，体型更小，长度8至30米之间；而专门定制游艇，是定制化的产品，根据客户的具体要求生产游艇，长度在28至43米之间。其中，丽娃（Riva）和Custom Line两品牌，专门生产定制游艇。</span></p> 
   <p style="margin-left: 8px;margin-right: 8px;line-height: 1.75em;"><span style="font-size: 15px;letter-spacing: 1px;">价格方面，复合材料游艇价格相对比较便宜，小尺寸游艇最低可以低至30万欧元，约200多万人民币。专门定制游艇则贵很多，起步价是900万欧元，最贵的可以超过2000万欧元。</span></p> 
-  <p style="margin-left: 8px;margin-right: 8px;line-height: 1.75em;"><span style="font-size: 15px;letter-spacing: 1px;">销售方面，豪华游艇公司一般通过“<a class="project-link" data-id="500979" data-name="中间人" data-logo="https://img.36krcdn.com/20210813/v2_7cf57dbd6be34a5f9687b443838dceda_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/500979" target="_blank">中间人</a>”跟各国王室、首富们做生意。公司会安排客户赴国外造船厂购艇。一般造船厂会建在海滨度假<a class="project-link" data-id="77204" data-name="胜地" data-logo="https://img.36krcdn.com/20210807/v2_1d1c53d978044ccf97b3fb689bf26b48_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/77204" target="_blank">胜地</a>附近，除了可以了解到游艇的生产流程，还能亲自操作、试驾。</span></p> 
+  <p style="margin-left: 8px;margin-right: 8px;line-height: 1.75em;"><span style="font-size: 15px;letter-spacing: 1px;">销售方面，豪华游艇公司一般通过“中间人”跟各国王室、首富们做生意。公司会安排客户赴国外造船厂购艇。一般造船厂会建在海滨度假胜地附近，除了可以了解到游艇的生产流程，还能亲自操作、试驾。</span></p> 
   <p style="margin-left: 8px;margin-right: 8px;line-height: 1.75em;"><span style="font-size: 15px;letter-spacing: 1px;">由于豪华游艇的生产成本非常高昂，为了降低违约风险，客户要先支付首付款（至少为总价的10%），艇越大越特别，预付比例就越多。从2018年至2021年前三季度，法拉帝累计交付游艇的数量为690艘，平均每年交付180艘左右，年均波动不大。</span></p> 
   <p style="margin-left: 8px;margin-right: 8px;line-height: 1.75em;"><span style="font-size: 15px;letter-spacing: 1px;">盈利方面，2018-2021年前三季度，溢利分别为3072万欧元、2660万欧元、2198万欧元及3209万欧元。公司净利率不超过5%。由于公司有较多的无形资产和固定资产，导致折旧和摊销比较多，经调整的EBITDA利润率也只有10%左右。而毛利率维持在50%左右。</span></p> 
   <p style="margin-left: 8px;margin-right: 8px;line-height: 1.75em;"><span style="font-size: 15px;letter-spacing: 1px;">费用方面，虽然高端游艇本身没有多少技术门槛，但大部分生产靠工匠和设计师来手工或者半手工生产，所以人力成本上支出较高，占营收的15% 左右，导致公司的经营费用居高不下。</span></p> 
@@ -35,7 +35,7 @@ thumbnail: 'https://picsum.photos/400/300?random=1879'
   <p style="margin-left: 8px;margin-right: 8px;line-height: 1.75em;text-align: center;"><span style="color: #00265D;"><strong><span style="color: #00265D;letter-spacing: 1px;font-size: 17px;">靠山东集团和跑车法拉利家族“起死回生”</span></strong></span></p> 
   <p style="margin-left: 8px;margin-right: 8px;line-height: 1.75em;"><span style="font-size: 15px;letter-spacing: 1px;">2008年，欧债危机蔓延，全球游艇行业经历洗牌，法拉帝也难逃此劫。</span></p> 
   <p style="margin-left: 8px;margin-right: 8px;line-height: 1.75em;"><span style="font-size: 15px;letter-spacing: 1px;">法拉帝集团由于多次使用杠杆、过度举债，让公司财务负担加重，经营一度陷入破产的边缘。CEO诺贝托·法拉帝开始主动寻求出售公司。</span></p> 
-  <p style="margin-left: 8px;margin-right: 8px;line-height: 1.75em;"><span style="font-size: 15px;letter-spacing: 1px;">而来自中国山东的重型发动机生产商潍柴集团正有进军游艇行业的意图。潍柴集团，背靠国有大型集团<a class="project-link" data-id="510909" data-name="山东重工" data-logo="https://img.36krcdn.com/20210813/v2_a1b9e18dc79545b0a3a3915c97ae93b5_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/510909" target="_blank">山东重工</a>，资金雄厚。2009年，潍柴开始调研游艇项目，看中了法拉帝的国际知名度、顶尖的制造技术、完善的产品销售渠道。借助收购，也可以更好地发展其高端发动机业务。</span></p> 
+  <p style="margin-left: 8px;margin-right: 8px;line-height: 1.75em;"><span style="font-size: 15px;letter-spacing: 1px;">而来自中国山东的重型发动机生产商潍柴集团正有进军游艇行业的意图。潍柴集团，背靠国有大型集团山东重工，资金雄厚。2009年，潍柴开始调研游艇项目，看中了法拉帝的国际知名度、顶尖的制造技术、完善的产品销售渠道。借助收购，也可以更好地发展其高端发动机业务。</span></p> 
   <p style="margin-left: 8px;margin-right: 8px;line-height: 1.75em;"><span style="font-size: 15px;letter-spacing: 1px;">最终，潍柴集团在2012年通过1.78亿欧元的股权投资及1.96亿欧元的贷款额度，总共斥资3.74亿欧元收购了法拉帝75%股权。</span></p> 
   <p style="margin-left: 8px;margin-right: 8px;line-height: 1.75em;"><span style="font-size: 15px;letter-spacing: 1px;">这次收购让法拉第集团开启了新篇章。2016年，继一系列换帅、重组之后，法拉帝全面扭亏为盈，净利润达1400多万元。</span></p> 
   <p style="margin-left: 8px;margin-right: 8px;line-height: 1.75em;"><span style="font-size: 15px;letter-spacing: 1px;">虽然法拉帝成为了中国企业的子公司，但“Made in Italy”的属性并没有减弱。</span></p> 
@@ -57,9 +57,9 @@ thumbnail: 'https://picsum.photos/400/300?random=1879'
   <p style="margin-left: 8px;margin-right: 8px;line-height: 1.75em;"><span style="font-size: 15px;letter-spacing: 1px;">从法拉帝的营收来源也可知，接近一半的营业收入是来自欧洲、中东以及非洲地区。换言之，客户主要是欧洲的Old Money以及中东土豪们。</span></p> 
   <p style="margin-left: 8px;margin-right: 8px;line-height: 1.75em;"><span style="font-size: 15px;letter-spacing: 1px;">而早在2020年，亚太地区的超高净值有210万人，极高净值有6万人，绝对规模超过欧洲和中东总和，仅次于美洲。</span></p> 
   <p style="margin-left: 8px;margin-right: 8px;line-height: 1.75em;"><span style="font-size: 15px;letter-spacing: 1px;">所以，亚太市场也成为了豪华游艇生产商们的“必争之地”。</span></p> 
-  <p style="margin-left: 8px;margin-right: 8px;line-height: 1.75em;"><span style="font-size: 15px;letter-spacing: 1px;">不过，亚太地区的富豪们似乎并没<a class="project-link" data-id="222237" data-name="有养" data-logo="https://img.36krcdn.com/20210809/v2_4f76e5c5654c4ffdbaf8f7d51a9fdc19_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/222237" target="_blank">有养</a>成游艇消费的习惯。招股书显示，亚太地区占法拉帝营业收入的比例从2018年的14.5%下降至2021年前三季度的5.2%，整体呈下降趋势。</span></p> 
+  <p style="margin-left: 8px;margin-right: 8px;line-height: 1.75em;"><span style="font-size: 15px;letter-spacing: 1px;">不过，亚太地区的富豪们似乎并没有养成游艇消费的习惯。招股书显示，亚太地区占法拉帝营业收入的比例从2018年的14.5%下降至2021年前三季度的5.2%，整体呈下降趋势。</span></p> 
  </section> 
 </section> 
-<p><span style="letter-spacing: 0px;">本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号 </span><a href="http://mp.weixin.qq.com/s?__biz=MjM5NDk1NDE2MA==&mid=2676348223&idx=1&sn=c9f5ae1a8c853d76eb1d2f84c59f2f5d&chksm=bc8e9be08bf912f6731be77803779c9af65344686e8c7cab5822380df7ada25a14ddecef529e#rd" style="letter-spacing: 0px; color: rgb(38, 38, 38); border-color: rgb(153, 153, 153); padding-bottom: 1px; word-wrap: break-word;" rel="noopener noreferrer nofollow">“投中网”（ID：China-Venture）</a><span style="letter-spacing: 0px;">，作者：张俊雯，36氪经授权发布。</span><br></p>  
+<p><span style="letter-spacing: 0px;">本文来自微信公众号 </span><a href="http://mp.weixin.qq.com/s?__biz=MjM5NDk1NDE2MA==&mid=2676348223&idx=1&sn=c9f5ae1a8c853d76eb1d2f84c59f2f5d&chksm=bc8e9be08bf912f6731be77803779c9af65344686e8c7cab5822380df7ada25a14ddecef529e#rd" style="letter-spacing: 0px; color: rgb(38, 38, 38); border-color: rgb(153, 153, 153); padding-bottom: 1px; word-wrap: break-word;" rel="noopener noreferrer nofollow">“投中网”（ID：China-Venture）</a><span style="letter-spacing: 0px;">，作者：张俊雯，36氪经授权发布。</span><br></p>  
 </div>
             
