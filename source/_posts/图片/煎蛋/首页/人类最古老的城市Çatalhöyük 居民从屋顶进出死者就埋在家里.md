@@ -5,15 +5,15 @@ categories:
  - 图片
  - 煎蛋
  - 首页
-headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/a531148d055b32dd4fd40e9dfb050a40.jpg!custom'
+headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/b95e3cc654f207205c351300b3802f3d.jpg!custom'
 author: 煎蛋
 comments: false
 date: Tue, 22 Mar 2022 05:16:00 GMT
-thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/a531148d055b32dd4fd40e9dfb050a40.jpg!custom'
+thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/b95e3cc654f207205c351300b3802f3d.jpg!custom'
 ---
 
 <div>   
-<blockquote><p>zsbd</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/a531148d055b32dd4fd40e9dfb050a40.jpg!custom" referrerpolicy="no-referrer"><p>Çatalhöyük，通常被认为是世界上最古老的城市之一，是安纳托利亚最大的新石器时代定居点之一，建于公元前7100 年左右，在鼎盛时期有多达 8000 人居住。</p>
+<blockquote><p>逢年过节或许还要把先人遗骸请出来</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/b95e3cc654f207205c351300b3802f3d.jpg!custom" referrerpolicy="no-referrer"><p>Çatalhöyük，通常被认为是世界上最古老的城市之一，是安纳托利亚最大的新石器时代定居点之一，建于公元前7100 年左右，在鼎盛时期有多达 8000 人居住。</p>
 <p>但是，尽管这座古老的城市与现代都市中心有许多相似之处，但也有明显的不同。</p>
 <p>最明显的之一：Çatalhöyük 没有街道路口。住宅是直接并排建造的，因此进入建筑物的唯一方法是从屋顶上爬下来。</p>
 <p>Çatalhöyük 人将死者埋在家中的地板下。</p>
