@@ -14,7 +14,8 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-a2f7454d009eba7bc143b4af44151f6
 
 <div>   
 <div class="content">
-                                                                                            <ul style="list-style-type:disc; margin-left:0; margin-right:0"> 
+                                                                    
+                                                        <ul style="list-style-type:disc; margin-left:0; margin-right:0"> 
  <li>Sfdp 通过可视化的业务单据设计，可以完整的构建一套业务逻辑系统。</li> 
  <li>Sfdp 通过脚本、函数的支持，在逻辑实现更加简洁、可用。</li> 
 </ul> 

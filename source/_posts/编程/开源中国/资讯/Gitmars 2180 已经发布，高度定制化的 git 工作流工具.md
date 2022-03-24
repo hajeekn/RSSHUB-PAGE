@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=4608'
+headimg: 'https://picsum.photos/400/300?random=7427'
 author: 开源中国
 comments: false
 date: Thu, 24 Mar 2022 11:38:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4608'
+thumbnail: 'https://picsum.photos/400/300?random=7427'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>Gitmars 2.18.0 已经发布，高度定制化的 git 工作流工具</p> 
+                                                                    
+                                                        <p>Gitmars 2.18.0 已经发布，高度定制化的 git 工作流工具</p> 
 <p>此版本更新内容包括：</p> 
 <ol> 
  <li>新增<code>gitm alias</code>指令，初始化：<code>git alias init</code>，移除：<code>git alias remove</code></li> 

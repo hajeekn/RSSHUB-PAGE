@@ -14,7 +14,8 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-47d91305f6b4e40f648ded1c23a50e3
 
 <div>   
 <div class="content">
-                                                                                            <p>Torna 1.14.4 发布，本次更新内容如下：</p> 
+                                                                    
+                                                        <p>Torna 1.14.4 发布，本次更新内容如下：</p> 
 <ul> 
  <li>【修复】修复分享整个模块只显示部分文档问题</li> 
  <li>【修复】修复调试返回非200状态不显示错误信息问题<span> </span><a href="https://gitee.com/durcframework/torna/issues/I4Y25X">#I4Y25X</a></li> 
