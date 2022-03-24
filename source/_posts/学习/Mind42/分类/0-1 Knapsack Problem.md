@@ -1,0 +1,19 @@
+
+---
+title: '0-1 Knapsack Problem'
+categories: 
+ - 学习
+ - Mind42
+ - 分类
+headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=beca6817-ae92-40c7-bc3b-e70ada92e993&size=gallery'
+author: Mind42
+comments: false
+date: 2022-03-24 05:20:49
+thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=beca6817-ae92-40c7-bc3b-e70ada92e993&size=gallery'
+---
+
+<div>   
+<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=beca6817-ae92-40c7-bc3b-e70ada92e993&size=gallery" referrerpolicy="no-referrer"><p>
+                                    </p>  
+</div>
+            
