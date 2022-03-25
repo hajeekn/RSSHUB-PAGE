@@ -1,0 +1,18 @@
+
+---
+title: 'iOS15.4正式版续航崩溃？iPhone实测结果来了！'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202203/623c3d8a8e9f09180104ccee_1024.jpg'
+author: ZAKER
+comments: false
+date: Fri, 25 Mar 2022 02:19:16 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202203/623c3d8a8e9f09180104ccee_1024.jpg'
+---
+
+<div>   
+<p>对于目前最新 iOS15.4 正式版，由于加入了非常实用的新功能，之前已经和大家说过是一个值得升级的版本 iOS15.4 正式版续航暴跌？iPhone 实测结果来了！，但最近几天，网上却有不少消息爆出续航暴跌的情况，一开始是国外用户在社交媒体上反映该问题并得到回应，后续得到国内越来越多媒体转载，于是部分国内用户也开始反映有类似问题出现，但苹果官方完全不承认 iOS15.4 正式版存在异常耗电的情况，给出的回应是让用户等等看，系统应该会自行调整并恢复正常。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202203/623c3d8a8e9f09180104ccee_1024.jpg" data-height="322" data-width="540" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202203/623c3d8a8e9f09180104ccee_1024.jpg" referrerpolicy="no-referrer"></div></div>几天过去，依然有人反映还是存在耗电问题，按理来说，iOS 系统一般到了中期版本，基本上都比较稳定了，不太可能会出现这种严重影响使用体验的情况，那既然用户依旧反映问题存在，苹果又一直不承认，那就只能靠实测结果来说话了，本人从网上找来了包含机型较多的测试对比结果，应该会比较有说服了。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202203/623c3d8a8e9f09180104ccef_1024.jpg" data-height="484" data-width="887" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202203/623c3d8a8e9f09180104ccef_1024.jpg" referrerpolicy="no-referrer"></div></div>可以看到，在 Geekbench 跑分工具实测结果中，除了 SE 系列因电池容量较低续航表现稍差之外，其实别的机型续航表现还行，iPhone 6s、7、8 三款机型因年代久远，电池健康度还和刚出来时肯定没法比，续航能力自然也要差一些，而剩余的 face id 机型续航时间至少都在 5 小时以上，iPhone 13 续航时间更是达到 8 小时 26 分，这个表现应该说时能够让人满意。<p></p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202203/623c3d8a8e9f09180104ccf0_1024.jpg" data-height="485" data-width="952" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202203/623c3d8a8e9f09180104ccf0_1024.jpg" referrerpolicy="no-referrer"></div></div>但类似成绩如果有和之前系统版本的对比，说服力又会进一步增强，小智又从网上找来了同样机型在 iOS15.3.1 中的测试结果，可以看到和上一个版本相比，iOS15.4 续航是有细微提升的，虽然提升幅度几乎可以忽略不计，但也至少证明 iOS15.4 续航表现并没有像网上说的那么不堪。<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202203/623c3d8a8e9f09180104ccf1_1024.jpg" data-height="505" data-width="985" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202203/623c3d8a8e9f09180104ccf1_1024.jpg" referrerpolicy="no-referrer"></div></div>虽然类似测试所处环境可能和用户日常使用环境会有所不同，比如玩游戏和看高清视频都会加快耗电速度，但也不至于让整个耗电过程出现明显异常，也就是说从该测试结果来看，iOS15.4 不存在续航崩溃的情况。<p></p><p>网上反映 iOS15.4 续航不佳的人也只是少数，多数人并没有感觉到在续航方面和上一代有差别，而像网上说的那样 iOS15.4 续航翻车，如果从字面上理解，那应该是出现了较为严重的续航下跌情况，实际上这样的情况并未出现，至少反映这个问题的人不多，甚至有人反映升级后更省电的。</p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202203/623c3d8a8e9f09180104ccf2_1024.jpg" data-height="704" data-width="1225" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202203/623c3d8a8e9f09180104ccf2_1024.jpg" referrerpolicy="no-referrer"></div></div>碰到这个问题的人怀疑是苹果想用这招来逼迫用户换新机，这个理由其实也不成立，因为苹果要是想这么做，应该针对老旧机型才合理，犯不着连 iPhone 12 这样较新的设备也包含在内。<p></p><p>本人手中也有一部 iPhone SE2，在升级到 iOS15.4 之后，感觉一切正常，不知道在座各位有多少人碰到该问题了呢？</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
